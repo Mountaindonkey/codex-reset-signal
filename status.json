@@ -1,18 +1,144 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "1970-01-01T00:00:00.000Z",
+  "updatedAt": "2026-10-22T16:25:11.096Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": null,
-    "lastSuccessAt": null,
-    "lastRunStatus": "waiting-for-first-run"
+    "lastCheckedAt": "2026-10-22T16:25:11.049Z",
+    "lastSuccessAt": "2026-10-22T16:25:11.049Z",
+    "lastRunStatus": "bootstrapped"
+  },
+  "latestObservedPost": {
+    "id": "2113163458867032238",
+    "text": "@ebloch Hefty",
+    "url": "https://x.com/thsottiaux/status/2113163458867032238",
+    "postCreatedAt": "2026-10-22T07:00:03.000Z"
   },
   "latest": {
     "reset": null,
-    "bankCredit": null,
+    "bankCredit": {
+      "version": "history:2096035437299237298",
+      "id": "2096035437299237298",
+      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+      "url": "https://x.com/thsottiaux/status/2096035437299237298",
+      "postCreatedAt": "2026-09-05T00:39:25.364Z",
+      "detectedAt": "2026-09-09T08:30:00.000Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Lands end of day",
+            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "historical_seed"
+    },
     "bankExpiry": null
   },
-  "recent": []
+  "recent": [
+    {
+      "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+      "id": "2113162277688070445",
+      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "postCreatedAt": "2026-10-22T06:55:22.000Z",
+      "detectedAt": "2026-10-22T16:25:11.049Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
+      "id": "2112798407928713717",
+      "text": "@theo I demand a reset",
+      "url": "https://x.com/thsottiaux/status/2112798407928713717",
+      "postCreatedAt": "2026-10-21T06:49:29.000Z",
+      "detectedAt": "2026-10-22T16:25:11.048Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo I demand a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo I demand a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+      "id": "2112432076767289678",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "postCreatedAt": "2026-10-20T06:33:48.000Z",
+      "detectedAt": "2026-10-22T16:25:11.047Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "live"
+    },
+    {
+      "version": "history:2096035437299237298",
+      "id": "2096035437299237298",
+      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
+      "url": "https://x.com/thsottiaux/status/2096035437299237298",
+      "postCreatedAt": "2026-09-05T00:39:25.364Z",
+      "detectedAt": "2026-09-09T08:30:00.000Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Lands end of day",
+            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
+          }
+        }
+      ],
+      "deliveryChannels": [],
+      "origin": "historical_seed"
+    }
+  ]
 }

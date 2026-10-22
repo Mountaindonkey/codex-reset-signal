@@ -2,13 +2,119 @@
   "version": 2,
   "username": "thsottiaux",
   "keyword": "reset",
-  "userId": null,
-  "sinceId": null,
-  "lastCheckedAt": null,
-  "lastSuccessAt": null,
-  "lastRunStatus": "waiting-for-first-run",
-  "postsScanned": 0,
-  "matches": [],
+  "userId": "1953337039510003712",
+  "sinceId": "2113163458867032238",
+  "lastCheckedAt": "2026-10-22T16:25:11.049Z",
+  "lastSuccessAt": "2026-10-22T16:25:11.049Z",
+  "lastRunStatus": "bootstrapped",
+  "postsScanned": 20,
+  "matches": [
+    {
+      "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+      "id": "2113162277688070445",
+      "canonicalId": "2113162277688070445",
+      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+      "createdAt": "2026-10-22T06:55:22.000Z",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "media": [],
+      "detectedAt": "2026-10-22T16:25:11.049Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": []
+    },
+    {
+      "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
+      "id": "2112798407928713717",
+      "canonicalId": "2112798407928713717",
+      "text": "@theo I demand a reset",
+      "createdAt": "2026-10-21T06:49:29.000Z",
+      "url": "https://x.com/thsottiaux/status/2112798407928713717",
+      "media": [],
+      "detectedAt": "2026-10-22T16:25:11.048Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo I demand a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo I demand a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": []
+    },
+    {
+      "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+      "id": "2112432076767289678",
+      "canonicalId": "2112432076767289678",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+      "createdAt": "2026-10-20T06:33:48.000Z",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "media": [],
+      "detectedAt": "2026-10-22T16:25:11.047Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": []
+    }
+  ],
   "outbox": [],
-  "seen": {}
+  "seen": {
+    "2112034063934742720": "cbfe757fe1b65c20f1f8e4b2e148d8bdde38af6f94bb19e35cbf46fd74ce4ade",
+    "2112034328549216593": "46bb538804afd4fa1749901965db6f76e2bf08b62b7b6bf61285d831b8e4d750",
+    "2112039275344941371": "1cdd5e32b872f833c1a0b13551d2ea2f6b5cc7a6e31b428e2c9343821021d3e7",
+    "2112039554538770846": "4f30ebd45f5ada44704eec76ff8404ca9d1d0eea210318b8dec2cfae4b8e0b44",
+    "2112039750999986304": "70a8b441c7ef7239d25b6f2291f2e4c8a3b5993553ebb5ac5ec1f6bae251d8d0",
+    "2112049026636103954": "08d82ba4e2a4f7b1c30d992f1ffe675114fc10bc930ab6b43acf34cc0c77dbd6",
+    "2112268918681485431": "3390a0a2210d233b64f62423c7e1185d081f5e490745ed9ccbda9a7921be25c8",
+    "2112426606870585551": "d09f4ebf49f91217eb4373f658179ae2ac17da1fb929edfb2f59aa7dd46bf136",
+    "2112432076767289678": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+    "2112592264686149749": "4d0758138da1a41962f2763f95f8e233606ca8df66c7214543ce330fd87bb55a",
+    "2112712984644784534": "f9199e8badb9a717dc59cd50f4202483af414fba15eb6bc94027bb5920f3a3c7",
+    "2112798407928713717": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
+    "2112906496736641416": "9a61d0f1e4b654ee2c5e6aec4b1a933ac416671c19e1559a52b1e5c025e4245e",
+    "2112992042465009736": "b28df03af70dece6d272b1def36c48353b48cb0c31978a91891fe75636a9784f",
+    "2113009945134379213": "113b460f6a15498062c666335ad2542d45315a465476766d4ed3c5e024c8c7a6",
+    "2113029655095836957": "86a2ce6087357bf459cb2675a1e3f4b69ca461da3173a17951a00e9343d5a446",
+    "2113029854417600834": "aba33bf5cb01b6a46bb2f81e773c232b66ad312fa85ba7cca6c35cb8d3c96f3f",
+    "2113162277688070445": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+    "2113162413008884099": "ac64cd14b4916c4387ab7d448ee3cf68d4dfc40b38cb3dadd3fdc913cee1a98d",
+    "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100"
+  },
+  "latestObservedPost": {
+    "id": "2113163458867032238",
+    "canonicalId": "2113163458867032238",
+    "text": "@ebloch Hefty",
+    "createdAt": "2026-10-22T07:00:03.000Z",
+    "url": "https://x.com/thsottiaux/status/2113163458867032238",
+    "media": []
+  },
+  "eventParserVersion": 5
 }
