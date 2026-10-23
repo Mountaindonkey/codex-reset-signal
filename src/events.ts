@@ -216,8 +216,14 @@ function pushMention(events: ResetEvent[], clause: string, note: string): void {
 
 // Prefer forwarding a possible announcement over missing a timing-only reply.
 // These hints are deliberately broad and must never become a confirmed reset.
-const timingHint =
-  /\b(?:today|tomorrow|tonight|yesterday|later|soon|shortly|now|morning|afternoon|evening|midnight|noon|weekend|monday|tuesday|wednesday|thursday|friday|saturday|sunday|january|february|march|april|june|july|august|september|october|november|december)\b|\b\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?\b|\b\d{1,2}:[0-5]\d\b|\b(?:\d+|an?|few|one|two|three|four|five|six|couple(?:\s+of)?)\s+(?:minutes?|hours?|days?|weeks?)\b|\b20\d{2}[-/]\d{1,2}[-/]\d{1,2}\b|明天|明早|明晚|今天|今晚|稍后|很快|马上|下周|周[一二三四五六日天]|星期[一二三四五六日天]|北京时间|太平洋时间|(?:[零一二三四五六七八九十百两\d]+)(?:点|分钟|小时)/i;
+const timingHints = [
+  /\b(?:today|tomorrow|tonight|yesterday|later|soon|shortly|now|morning|afternoon|evening|midnight|noon|weekend|monday|tuesday|wednesday|thursday|friday|saturday|sunday|january|february|march|april|june|july|august|september|october|november|december)\b/i,
+  /\b\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?\b|\b\d{1,2}:[0-5]\d\b|\b(?:at|before|after|by|around)\s+\d{1,2}\b|\b(?:PT|PST|PDT|UTC|GMT)\b/i,
+  /\b(?:\d+|an?|few|one|two|three|four|five|six|couple(?:\s+of)?)\s+(?:seconds?|secs?|minutes?|mins?|hours?|hrs?|days?|weeks?)\b/i,
+  /\b(?:next|this)\s+(?:second|minute|hour|day|week|month|year)\b|\b(?:end\s+of\s+(?:the\s+)?(?:day|week)|EOD|EOW|in\s+a\s+(?:little\s+)?(?:bit|while))\b/i,
+  /\b20\d{2}[-/]\d{1,2}[-/]\d{1,2}\b|\bMay\s+\d{1,2}\b|\b\d{1,2}\s+May\b/i,
+  /明天|明早|明晚|今天|今晚|稍后|很快|马上|下周|周[一二三四五六日天]|星期[一二三四五六日天]|北京时间|太平洋时间|(?:[零一二三四五六七八九十百两\d]+)(?:点|分钟|小时)/,
+];
 const quotaOrRolloutHint =
   /\b(?:usage|quota|limits?|tokens?|replenish(?:ed|ing)?|refresh(?:ed|ing)?|restor(?:e|ed|ing)|lands?|landing|eta|rolling\s+out|rolled\s+out|rollout|propagat(?:e|ed|ing)|done\s+and\s+dusted|surprise)\b|额度|配额|重置|恢复|补发|到账|落地|惊喜|安排上了/i;
 
@@ -227,7 +233,7 @@ export function extractEvents(
 ): ResetEvent[] {
   if (!/\breset(?:s|ting)?\b/i.test(post.text)) {
     const possibleEvents: ResetEvent[] = [];
-    if (timingHint.test(post.text) || quotaOrRolloutHint.test(post.text))
+    if (timingHints.some((hint) => hint.test(post.text)) || quotaOrRolloutHint.test(post.text))
       pushMention(
         possibleEvents,
         post.text,

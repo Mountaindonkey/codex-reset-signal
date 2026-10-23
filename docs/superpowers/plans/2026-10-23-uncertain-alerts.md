@@ -31,5 +31,9 @@
 - [x] Add regression cases for the real timing-only reply, natural timing/quota hints, unrelated posts, delivery text/URL, opt-out, bootstrap suppression, and deduplication.
 - [x] Run the new tests and confirm the timing-only cases fail on existing code (12 failed assertions before implementation).
 - [x] Add the broad fallback and an explicit uncertain-forwarding label.
-- [x] Run the new tests, full `npm test` (103 passed), `npm run typecheck`, and `npm run build` (completed with existing dashboard sourcemap/bundling warnings).
+- [x] Run the new tests, full `npm test` (110 passed), `npm run typecheck`, and `npm run build` (completed with existing dashboard sourcemap/bundling warnings).
 - [ ] Review the diff, commit, publish to the user's fork, and verify the deployed code. If credentials block writing, retain a complete tested patch and identify the exact access limitation.
+
+## Review record
+
+Independent review found missing common timing-only phrases. Added regressions for `Next week.`, `In the next hour.`, `By end of day.`, `Within 30 min.`, `May 25.`, `Around 10 PT.`, and `In a little while.`; observed all seven fail, then pass after broadening timing hints. Full final suite: 110 passed. Scheduler latency, historical replay, and real mailbox delivery remain outside this filtering change.
