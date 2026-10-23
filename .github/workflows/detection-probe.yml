@@ -1,0 +1,32 @@
+name: Test detection and real email
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [fixtures/live-detection-probe.json]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reset-signal-detection-probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Inject post into monitor and allow real email delivery
+        run: node --import tsx scripts/live-detection-probe.ts
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
