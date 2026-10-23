@@ -21,7 +21,7 @@ const labels = {
   reset: "额度重置",
   bank_credit: "Bank 重置额度",
   bank_expiry: "Bank 有效期",
-  mention: "Reset 相关讨论（未确认）",
+  mention: "可能相关动态（未确认，原文转发）",
 };
 const statuses = {
   scheduled: "预告",

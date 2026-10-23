@@ -214,11 +214,27 @@ function pushMention(events: ResetEvent[], clause: string, note: string): void {
   });
 }
 
+// Prefer forwarding a possible announcement over missing a timing-only reply.
+// These hints are deliberately broad and must never become a confirmed reset.
+const timingHint =
+  /\b(?:today|tomorrow|tonight|yesterday|later|soon|shortly|now|morning|afternoon|evening|midnight|noon|weekend|monday|tuesday|wednesday|thursday|friday|saturday|sunday|january|february|march|april|june|july|august|september|october|november|december)\b|\b\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?\b|\b\d{1,2}:[0-5]\d\b|\b(?:\d+|an?|few|one|two|three|four|five|six|couple(?:\s+of)?)\s+(?:minutes?|hours?|days?|weeks?)\b|\b20\d{2}[-/]\d{1,2}[-/]\d{1,2}\b|明天|明早|明晚|今天|今晚|稍后|很快|马上|下周|周[一二三四五六日天]|星期[一二三四五六日天]|北京时间|太平洋时间|(?:[零一二三四五六七八九十百两\d]+)(?:点|分钟|小时)/i;
+const quotaOrRolloutHint =
+  /\b(?:usage|quota|limits?|tokens?|replenish(?:ed|ing)?|refresh(?:ed|ing)?|restor(?:e|ed|ing)|lands?|landing|eta|rolling\s+out|rolled\s+out|rollout|propagat(?:e|ed|ing)|done\s+and\s+dusted|surprise)\b|额度|配额|重置|恢复|补发|到账|落地|惊喜|安排上了/i;
+
 export function extractEvents(
   post: XPost,
   sourceTimezone?: string,
 ): ResetEvent[] {
-  if (!/\breset(?:s|ting)?\b/i.test(post.text)) return [];
+  if (!/\breset(?:s|ting)?\b/i.test(post.text)) {
+    const possibleEvents: ResetEvent[] = [];
+    if (timingHint.test(post.text) || quotaOrRolloutHint.test(post.text))
+      pushMention(
+        possibleEvents,
+        post.text,
+        "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断",
+      );
+    return possibleEvents;
+  }
   const clauses = post.text
     .split(/(?:[;\n]|\.(?=\s+[A-Z]|$)|\s+and\s+(?=we\b|your\b|you\b|one\b))/i)
     .map((s) => s.trim())
