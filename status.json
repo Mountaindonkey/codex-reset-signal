@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T23:03:10.022Z",
+  "updatedAt": "2026-10-24T01:29:36.189Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-23T23:03:10.018Z",
-    "lastSuccessAt": "2026-10-23T23:03:10.018Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-24T01:29:35.942Z",
+    "lastSuccessAt": "2026-10-24T01:29:35.942Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2113492502355562875",
-    "text": "Landing tomorrow before 10am PST together with a small ship.",
-    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-    "postCreatedAt": "2026-10-23T04:47:34.000Z"
+    "id": "2113771215433392478",
+    "text": "@playdropai @bcherny @alexandr_wang @poteto Fun game",
+    "url": "https://x.com/thsottiaux/status/2113771215433392478",
+    "postCreatedAt": "2026-10-23T23:15:04.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "3e97cf1017c0fcdc8b1c57eb7edbd078d1c5a63536cd3a21f54fd7ad0771b003",
+      "id": "2113770862860222611",
+      "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
+      "url": "https://x.com/thsottiaux/status/2113770862860222611",
+      "postCreatedAt": "2026-10-23T23:13:40.000Z",
+      "detectedAt": "2026-10-24T01:29:35.942Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a",
       "id": "2113492502355562875",
