@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2114237441250828563",
-  "lastCheckedAt": "2026-10-25T07:44:25.878Z",
-  "lastSuccessAt": "2026-10-25T07:44:25.878Z",
-  "lastRunStatus": "checked-7-posts",
+  "lastCheckedAt": "2026-10-25T12:46:59.537Z",
+  "lastSuccessAt": "2026-10-25T12:46:59.537Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 42,
   "matches": [
     {
       "version": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
       "id": "2114237083652882932",
-      "canonicalId": "2114237083652882932",
       "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
       "createdAt": "2026-10-25T06:06:16.000Z",
       "url": "https://x.com/thsottiaux/status/2114237083652882932",
@@ -40,16 +39,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T07:44:26.390Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-25T07:44:26.390Z"
+      ]
     },
     {
       "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
       "id": "2114228044072403055",
-      "canonicalId": "2114228044072403055",
       "text": "@theo Not a real improvement, put the reset in the bag",
       "createdAt": "2026-10-25T05:30:20.000Z",
       "url": "https://x.com/thsottiaux/status/2114228044072403055",
@@ -69,16 +67,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T07:44:26.227Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-25T07:44:26.227Z"
+      ]
     },
     {
       "version": "b8775d91a923e8d235a471cd4053c3cbb1e73ff22575f20b235b4e8d4ab61e2d",
       "id": "2114200291319124163",
-      "canonicalId": "2114200291319124163",
       "text": "By midnight PST",
       "createdAt": "2026-10-25T03:40:04.000Z",
       "url": "https://x.com/thsottiaux/status/2114200291319124163",
@@ -98,16 +95,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T07:44:26.080Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-25T07:44:26.080Z"
+      ]
     },
     {
       "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
       "id": "2114200152701575656",
-      "canonicalId": "2114200152701575656",
       "text": "Day 20/ Rest and reset",
       "createdAt": "2026-10-25T03:39:31.000Z",
       "url": "https://x.com/thsottiaux/status/2114200152701575656",
@@ -127,11 +123,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-25T07:44:25.881Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-25T07:44:25.881Z"
+      ]
     },
     {
       "version": "d48c46ed0bb6aee4ed0101933f9e465c576ba6a7f7fd9bfacf76cd5f928ef983",
