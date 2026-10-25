@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T02:26:56.379Z",
+  "updatedAt": "2026-10-25T07:44:26.558Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-25T02:26:56.375Z",
-    "lastSuccessAt": "2026-10-25T02:26:56.375Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-25T07:44:25.878Z",
+    "lastSuccessAt": "2026-10-25T07:44:25.878Z",
+    "lastRunStatus": "checked-7-posts"
   },
   "latestObservedPost": {
-    "id": "2114125878804545940",
-    "text": "@mitsuhiko I doubt they are on twitter",
-    "url": "https://x.com/thsottiaux/status/2114125878804545940",
-    "postCreatedAt": "2026-10-24T22:44:22.000Z"
+    "id": "2114237441250828563",
+    "text": "@ScriptedAlchemy .com",
+    "url": "https://x.com/thsottiaux/status/2114237441250828563",
+    "postCreatedAt": "2026-10-25T06:07:41.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,110 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
+      "id": "2114237083652882932",
+      "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
+      "url": "https://x.com/thsottiaux/status/2114237083652882932",
+      "postCreatedAt": "2026-10-25T06:06:16.000Z",
+      "detectedAt": "2026-10-25T07:44:25.878Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
+      "id": "2114228044072403055",
+      "text": "@theo Not a real improvement, put the reset in the bag",
+      "url": "https://x.com/thsottiaux/status/2114228044072403055",
+      "postCreatedAt": "2026-10-25T05:30:20.000Z",
+      "detectedAt": "2026-10-25T07:44:25.878Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo Not a real improvement, put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo Not a real improvement, put the reset in the bag",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "b8775d91a923e8d235a471cd4053c3cbb1e73ff22575f20b235b4e8d4ab61e2d",
+      "id": "2114200291319124163",
+      "text": "By midnight PST",
+      "url": "https://x.com/thsottiaux/status/2114200291319124163",
+      "postCreatedAt": "2026-10-25T03:40:04.000Z",
+      "detectedAt": "2026-10-25T07:44:25.878Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "By midnight PST",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "By midnight PST",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
+      "id": "2114200152701575656",
+      "text": "Day 20/ Rest and reset",
+      "url": "https://x.com/thsottiaux/status/2114200152701575656",
+      "postCreatedAt": "2026-10-25T03:39:31.000Z",
+      "detectedAt": "2026-10-25T07:44:25.877Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 20/ Rest and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 20/ Rest and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "d48c46ed0bb6aee4ed0101933f9e465c576ba6a7f7fd9bfacf76cd5f928ef983",
       "id": "2114037527598576003",
