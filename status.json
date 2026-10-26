@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T01:44:13.298Z",
+  "updatedAt": "2026-10-26T07:01:10.023Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-26T01:44:13.293Z",
-    "lastSuccessAt": "2026-10-26T01:44:13.293Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-26T07:01:09.762Z",
+    "lastSuccessAt": "2026-10-26T07:01:09.762Z",
+    "lastRunStatus": "checked-6-posts"
   },
   "latestObservedPost": {
-    "id": "2114435873857028129",
-    "text": "@himanshutwtxs Did you?",
-    "url": "https://x.com/thsottiaux/status/2114435873857028129",
-    "postCreatedAt": "2026-10-25T19:16:11.000Z"
+    "id": "2114599388454481930",
+    "text": "@larsencc @bot Not enough resets",
+    "url": "https://x.com/thsottiaux/status/2114599388454481930",
+    "postCreatedAt": "2026-10-26T06:05:56.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,58 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
+      "id": "2114599388454481930",
+      "text": "@larsencc @bot Not enough resets",
+      "url": "https://x.com/thsottiaux/status/2114599388454481930",
+      "postCreatedAt": "2026-10-26T06:05:56.000Z",
+      "detectedAt": "2026-10-26T07:01:09.762Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@larsencc @bot Not enough resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@larsencc @bot Not enough resets",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
+      "id": "2114588174249071102",
+      "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "url": "https://x.com/thsottiaux/status/2114588174249071102",
+      "postCreatedAt": "2026-10-26T05:21:22.000Z",
+      "detectedAt": "2026-10-26T07:01:09.759Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
       "id": "2114237083652882932",
