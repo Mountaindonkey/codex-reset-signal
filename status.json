@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T01:54:36.069Z",
+  "updatedAt": "2026-10-28T07:44:39.588Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T01:54:36.062Z",
-    "lastSuccessAt": "2026-10-28T01:54:36.062Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-28T07:44:39.180Z",
+    "lastSuccessAt": "2026-10-28T07:44:39.180Z",
+    "lastRunStatus": "checked-10-posts"
   },
   "latestObservedPost": {
-    "id": "2115148258372964831",
-    "text": "@BrenBuilds A sign of great things to come",
-    "url": "https://x.com/thsottiaux/status/2115148258372964831",
-    "postCreatedAt": "2026-10-27T18:26:57.000Z"
+    "id": "2115330127886463244",
+    "text": "And it's done. See you tomorrow for some good news.",
+    "url": "https://x.com/thsottiaux/status/2115330127886463244",
+    "postCreatedAt": "2026-10-28T06:29:38.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,84 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "c5e78a303d2682f0170b5276d1f2659c413a293537d86d3a8b0827105be040e1",
+      "id": "2115330127886463244",
+      "text": "And it's done. See you tomorrow for some good news.",
+      "url": "https://x.com/thsottiaux/status/2115330127886463244",
+      "postCreatedAt": "2026-10-28T06:29:38.000Z",
+      "detectedAt": "2026-10-28T07:44:39.180Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "And it's done. See you tomorrow for some good news.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "And it's done. See you tomorrow for some good news.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "bf0b229980513092e3549a6e241b4525d80a4e9011cac8e18369e692eea6ba39",
+      "id": "2115273253711409208",
+      "text": "Lands by midnight PST.",
+      "url": "https://x.com/thsottiaux/status/2115273253711409208",
+      "postCreatedAt": "2026-10-28T02:43:38.000Z",
+      "detectedAt": "2026-10-28T07:44:39.179Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Lands by midnight PST.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Lands by midnight PST.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+      "id": "2115273064481218829",
+      "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though!",
+      "url": "https://x.com/thsottiaux/status/2115273064481218829",
+      "postCreatedAt": "2026-10-28T02:42:53.000Z",
+      "detectedAt": "2026-10-28T07:44:39.178Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Just kidding, today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Just kidding, today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "1bf88207313e0d5f78647dbb937fcfa533caa2179ef322464f9cbbfd1d4416d2",
       "id": "2114800277677092936",
