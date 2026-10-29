@@ -3,12 +3,70 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2115649073302904875",
-  "lastCheckedAt": "2026-10-29T15:56:15.367Z",
-  "lastSuccessAt": "2026-10-29T15:56:15.367Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 72,
+  "sinceId": "2115890336107233347",
+  "lastCheckedAt": "2026-10-29T20:48:29.216Z",
+  "lastSuccessAt": "2026-10-29T20:48:29.216Z",
+  "lastRunStatus": "checked-6-posts",
+  "postsScanned": 78,
   "matches": [
+    {
+      "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
+      "id": "2115851621137784832",
+      "canonicalId": "2115851621137784832",
+      "text": "Graduating from The Reset Company to The Token Company.",
+      "createdAt": "2026-10-29T17:01:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2115851621137784832",
+      "media": [],
+      "detectedAt": "2026-10-29T20:48:29.216Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Graduating from The Reset Company to The Token Company",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Graduating from The Reset Company to The Token Company",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T20:48:29.426Z"
+    },
+    {
+      "version": "858d40140426f71c162979ade8a5a061f606c1f62b6e691532b0b5e3de17af2a",
+      "id": "2115850175868727621",
+      "canonicalId": "2115850175868727621",
+      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+      "createdAt": "2026-10-29T16:56:07.000Z",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "media": [],
+      "detectedAt": "2026-10-29T20:48:29.214Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T20:48:29.220Z"
+    },
     {
       "version": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
       "id": "2115588390414581916",
@@ -512,30 +570,6 @@
         }
       ],
       "channels": []
-    },
-    {
-      "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
-      "id": "2112432076767289678",
-      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
-      "createdAt": "2026-10-20T06:33:48.000Z",
-      "url": "https://x.com/thsottiaux/status/2112432076767289678",
-      "media": [],
-      "detectedAt": "2026-10-22T16:25:11.047Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "and reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "and reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "channels": []
     }
   ],
   "outbox": [],
@@ -611,14 +645,20 @@
     "2115622002581188681": "3c9c86b377d54385c34f4b6323c16131f61e4541a9c3a63c6d26b9177e641357",
     "2115648685069742441": "b4f67c3649e0fe237a45865c442520eb6c50b9b4872ff9222ae167d3cf1f8e93",
     "2115648938149818370": "efa9253050c7572d56456578267faa086d329d702cf5c3348a0511704ce56c5f",
-    "2115649073302904875": "d8e2e9496e44860fd929f1e13659d0b8b84fbfdfb7143ea68105981aa2191f62"
+    "2115649073302904875": "d8e2e9496e44860fd929f1e13659d0b8b84fbfdfb7143ea68105981aa2191f62",
+    "2115847315173069025": "e938869f6d32597f0664b3fe4e8c14d6eb82afc79294159aeadcbf979453b236",
+    "2115847364670030218": "841295eaa0d6e2a4f410e7e646a565f681e6284a174c0ce86c9674ffd77fe94c",
+    "2115850175868727621": "858d40140426f71c162979ade8a5a061f606c1f62b6e691532b0b5e3de17af2a",
+    "2115851621137784832": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
+    "2115851811576053881": "3ffeeea7cb079ec71bd353a8f9e02ffb721a3defdabf165e194b1147a9f5372b",
+    "2115890336107233347": "5e3d0a9bda741770c71f62a45ed235e39a3628fea49660fb939a223090020621"
   },
   "latestObservedPost": {
-    "id": "2115649073302904875",
-    "canonicalId": "2115649073302904875",
-    "text": "@rezoundous Low, but not zero",
-    "createdAt": "2026-10-29T03:37:00.000Z",
-    "url": "https://x.com/thsottiaux/status/2115649073302904875",
+    "id": "2115890336107233347",
+    "canonicalId": "2115890336107233347",
+    "text": "Send your kind feedback to this person",
+    "createdAt": "2026-10-29T19:35:42.000Z",
+    "url": "https://x.com/thsottiaux/status/2115890336107233347",
     "media": []
   },
   "eventParserVersion": 5
