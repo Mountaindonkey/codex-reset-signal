@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T23:38:46.236Z",
+  "updatedAt": "2026-10-29T02:50:38.842Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T23:38:45.961Z",
-    "lastSuccessAt": "2026-10-28T23:38:45.961Z",
+    "lastCheckedAt": "2026-10-29T02:50:38.840Z",
+    "lastSuccessAt": "2026-10-29T02:50:38.840Z",
     "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2115588390414581916",
-    "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-    "url": "https://x.com/thsottiaux/status/2115588390414581916",
-    "postCreatedAt": "2026-10-28T23:35:52.000Z"
+    "id": "2115622002581188681",
+    "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to &lt;INSERT WILD REQUEST&gt;\" and sit back and relax.",
+    "url": "https://x.com/thsottiaux/status/2115622002581188681",
+    "postCreatedAt": "2026-10-29T01:49:26.000Z"
   },
   "latest": {
     "reset": null,
