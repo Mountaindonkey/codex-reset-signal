@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T00:28:11.989Z",
+  "updatedAt": "2026-10-30T06:14:44.845Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T00:28:11.985Z",
-    "lastSuccessAt": "2026-10-30T00:28:11.985Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-30T06:14:44.842Z",
+    "lastSuccessAt": "2026-10-30T06:14:44.842Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2115890336107233347",
-    "text": "Send your kind feedback to this person",
-    "url": "https://x.com/thsottiaux/status/2115890336107233347",
-    "postCreatedAt": "2026-10-29T19:35:42.000Z"
+    "id": "2116046569963421719",
+    "text": "@Ananth7e Yep",
+    "url": "https://x.com/thsottiaux/status/2116046569963421719",
+    "postCreatedAt": "2026-10-30T05:56:31.000Z"
   },
   "latest": {
     "reset": null,
