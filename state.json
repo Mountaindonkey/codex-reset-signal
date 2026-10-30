@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2115890336107233347",
-  "lastCheckedAt": "2026-10-29T20:48:29.216Z",
-  "lastSuccessAt": "2026-10-29T20:48:29.216Z",
-  "lastRunStatus": "checked-6-posts",
+  "lastCheckedAt": "2026-10-30T00:28:11.985Z",
+  "lastSuccessAt": "2026-10-30T00:28:11.985Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 78,
   "matches": [
     {
       "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
       "id": "2115851621137784832",
-      "canonicalId": "2115851621137784832",
       "text": "Graduating from The Reset Company to The Token Company.",
       "createdAt": "2026-10-29T17:01:51.000Z",
       "url": "https://x.com/thsottiaux/status/2115851621137784832",
@@ -32,16 +31,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T20:48:29.426Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T20:48:29.426Z"
+      ]
     },
     {
       "version": "858d40140426f71c162979ade8a5a061f606c1f62b6e691532b0b5e3de17af2a",
       "id": "2115850175868727621",
-      "canonicalId": "2115850175868727621",
       "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
       "createdAt": "2026-10-29T16:56:07.000Z",
       "url": "https://x.com/thsottiaux/status/2115850175868727621",
@@ -61,11 +59,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T20:48:29.220Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T20:48:29.220Z"
+      ]
     },
     {
       "version": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
