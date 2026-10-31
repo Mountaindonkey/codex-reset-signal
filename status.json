@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T01:46:11.139Z",
+  "updatedAt": "2026-10-31T07:32:35.506Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-31T01:46:11.134Z",
-    "lastSuccessAt": "2026-10-31T01:46:11.134Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-31T07:32:35.123Z",
+    "lastSuccessAt": "2026-10-31T07:32:35.123Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2116256600436641887",
-    "text": "@claudeai Better announce 28 days of reset",
-    "url": "https://x.com/thsottiaux/status/2116256600436641887",
-    "postCreatedAt": "2026-10-30T19:51:06.000Z"
+    "id": "2116408135930069347",
+    "text": "@theo You had me at Codex",
+    "url": "https://x.com/thsottiaux/status/2116408135930069347",
+    "postCreatedAt": "2026-10-31T05:53:15.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
+      "id": "2116405414921384099",
+      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
+      "url": "https://x.com/thsottiaux/status/2116405414921384099",
+      "postCreatedAt": "2026-10-31T05:42:26.000Z",
+      "detectedAt": "2026-10-31T07:32:35.123Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Next two days will be resets… banked… do with this what you may 👀",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Next two days will be resets… banked… do with this what you may 👀",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
       "id": "2116256600436641887",
@@ -536,30 +562,6 @@
       "deliveryChannels": [
         "email"
       ],
-      "origin": "live"
-    },
-    {
-      "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
-      "id": "2113162277688070445",
-      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
-      "url": "https://x.com/thsottiaux/status/2113162277688070445",
-      "postCreatedAt": "2026-10-22T06:55:22.000Z",
-      "detectedAt": "2026-10-22T16:25:11.049Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [],
       "origin": "live"
     }
   ]
