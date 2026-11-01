@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2116942192497533418",
-  "lastCheckedAt": "2026-11-01T17:56:59.649Z",
-  "lastSuccessAt": "2026-11-01T17:56:59.649Z",
-  "lastRunStatus": "checked-6-posts",
+  "lastCheckedAt": "2026-11-01T21:40:52.895Z",
+  "lastSuccessAt": "2026-11-01T21:40:52.895Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 96,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
       "id": "2116942192497533418",
-      "canonicalId": "2116942192497533418",
       "text": "@TokenGremlin I demand a banked reset",
       "createdAt": "2026-11-01T17:15:24.000Z",
       "url": "https://x.com/thsottiaux/status/2116942192497533418",
@@ -32,16 +31,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-01T17:57:00.150Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-01T17:57:00.150Z"
+      ]
     },
     {
       "version": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
       "id": "2116936205623611781",
-      "canonicalId": "2116936205623611781",
       "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
       "createdAt": "2026-11-01T16:51:36.000Z",
       "url": "https://x.com/thsottiaux/status/2116936205623611781",
@@ -61,16 +59,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-01T17:57:00.017Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-01T17:57:00.017Z"
+      ]
     },
     {
       "version": "25b71439c3a8a01325e80ded94da05f6763661bc45d89129c9d069644d9a7325",
       "id": "2116936031866077423",
-      "canonicalId": "2116936031866077423",
       "text": "My dog sent you the meeting notes from yesterday, did you see them?",
       "createdAt": "2026-11-01T16:50:55.000Z",
       "url": "https://x.com/thsottiaux/status/2116936031866077423",
@@ -90,16 +87,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-01T17:56:59.898Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-01T17:56:59.898Z"
+      ]
     },
     {
       "version": "1279f2fd01cac21e97b2885ed98044984910a98fa5181e3e0a8c10aacb6a84ba",
       "id": "2116935821534380166",
-      "canonicalId": "2116935821534380166",
       "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
       "createdAt": "2026-11-01T16:50:05.000Z",
       "url": "https://x.com/thsottiaux/status/2116935821534380166",
@@ -119,11 +115,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-01T17:56:59.653Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-01T17:56:59.653Z"
+      ]
     },
     {
       "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
