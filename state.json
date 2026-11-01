@@ -3,12 +3,128 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2116692827459747906",
-  "lastCheckedAt": "2026-11-01T12:14:46.852Z",
-  "lastSuccessAt": "2026-11-01T12:14:46.852Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 90,
+  "sinceId": "2116942192497533418",
+  "lastCheckedAt": "2026-11-01T17:56:59.649Z",
+  "lastSuccessAt": "2026-11-01T17:56:59.649Z",
+  "lastRunStatus": "checked-6-posts",
+  "postsScanned": 96,
   "matches": [
+    {
+      "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
+      "id": "2116942192497533418",
+      "canonicalId": "2116942192497533418",
+      "text": "@TokenGremlin I demand a banked reset",
+      "createdAt": "2026-11-01T17:15:24.000Z",
+      "url": "https://x.com/thsottiaux/status/2116942192497533418",
+      "media": [],
+      "detectedAt": "2026-11-01T17:56:59.649Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@TokenGremlin I demand a banked reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@TokenGremlin I demand a banked reset",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-01T17:57:00.150Z"
+    },
+    {
+      "version": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
+      "id": "2116936205623611781",
+      "canonicalId": "2116936205623611781",
+      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+      "createdAt": "2026-11-01T16:51:36.000Z",
+      "url": "https://x.com/thsottiaux/status/2116936205623611781",
+      "media": [],
+      "detectedAt": "2026-11-01T17:56:59.622Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-01T17:57:00.017Z"
+    },
+    {
+      "version": "25b71439c3a8a01325e80ded94da05f6763661bc45d89129c9d069644d9a7325",
+      "id": "2116936031866077423",
+      "canonicalId": "2116936031866077423",
+      "text": "My dog sent you the meeting notes from yesterday, did you see them?",
+      "createdAt": "2026-11-01T16:50:55.000Z",
+      "url": "https://x.com/thsottiaux/status/2116936031866077423",
+      "media": [],
+      "detectedAt": "2026-11-01T17:56:59.621Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "My dog sent you the meeting notes from yesterday, did you see them?",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "My dog sent you the meeting notes from yesterday, did you see them?",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-01T17:56:59.898Z"
+    },
+    {
+      "version": "1279f2fd01cac21e97b2885ed98044984910a98fa5181e3e0a8c10aacb6a84ba",
+      "id": "2116935821534380166",
+      "canonicalId": "2116935821534380166",
+      "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
+      "createdAt": "2026-11-01T16:50:05.000Z",
+      "url": "https://x.com/thsottiaux/status/2116935821534380166",
+      "media": [],
+      "detectedAt": "2026-11-01T17:56:59.621Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-01T17:56:59.653Z"
+    },
     {
       "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
       "id": "2116405414921384099",
@@ -464,118 +580,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "d1e9efb0ffdb5f1a864e647a828a7cd63029d9c5532e7154e80dc1b5bbff2d18",
-      "id": "2114030784625647855",
-      "text": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
-      "createdAt": "2026-10-24T16:26:30.000Z",
-      "url": "https://x.com/thsottiaux/status/2114030784625647855",
-      "media": [],
-      "detectedAt": "2026-10-24T17:34:00.934Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-24T17:34:00.938Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "3e97cf1017c0fcdc8b1c57eb7edbd078d1c5a63536cd3a21f54fd7ad0771b003",
-      "id": "2113770862860222611",
-      "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
-      "createdAt": "2026-10-23T23:13:40.000Z",
-      "url": "https://x.com/thsottiaux/status/2113770862860222611",
-      "media": [],
-      "detectedAt": "2026-10-24T01:29:35.942Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-24T01:29:35.944Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a",
-      "id": "2113492502355562875",
-      "text": "Landing tomorrow before 10am PST together with a small ship.",
-      "createdAt": "2026-10-23T04:47:34.000Z",
-      "url": "https://x.com/thsottiaux/status/2113492502355562875",
-      "media": [],
-      "detectedAt": "2026-10-23T06:29:23.435Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Landing tomorrow before 10am PST together with a small ship.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Landing tomorrow before 10am PST together with a small ship.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-23T06:29:23.926Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
-      "id": "2113492187770175603",
-      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
-      "createdAt": "2026-10-23T04:46:19.000Z",
-      "url": "https://x.com/thsottiaux/status/2113492187770175603",
-      "media": [],
-      "detectedAt": "2026-10-23T06:29:23.434Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "But yes… that’s a reset!",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "But yes… that’s a reset!",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-23T06:29:23.468Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -669,14 +673,20 @@
     "2116408135930069347": "91189de77a6c7210e882e060b46bbdc0192c9e152b76a69c4ffab477578eecba",
     "2116692529970311254": "97be25c182cc5b46a07b2275790b658d4efacef590b5924b52f100b69dbfcbb4",
     "2116692730877522349": "c716185a71444dcf8fac7ae4701a25e26cede050ba72b9b9e4fb2acf9cebb33d",
-    "2116692827459747906": "971d62e5808f3b03a0fa67b2235d7c1d0fa6b4585a4289fa59b01602552e6043"
+    "2116692827459747906": "971d62e5808f3b03a0fa67b2235d7c1d0fa6b4585a4289fa59b01602552e6043",
+    "2116935471976919340": "fe405d4fdadab85f03516eea5fee2a0cad0cb054df6ce284b46851a95345a007",
+    "2116935650511585696": "851f48318381eff68bc7bc350316c75c7dd2e8295f61188527fa0b3107c8b678",
+    "2116935821534380166": "1279f2fd01cac21e97b2885ed98044984910a98fa5181e3e0a8c10aacb6a84ba",
+    "2116936031866077423": "25b71439c3a8a01325e80ded94da05f6763661bc45d89129c9d069644d9a7325",
+    "2116936205623611781": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
+    "2116942192497533418": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663"
   },
   "latestObservedPost": {
-    "id": "2116692827459747906",
-    "canonicalId": "2116692827459747906",
-    "text": "@yacineMTB ?!",
-    "createdAt": "2026-11-01T00:44:30.000Z",
-    "url": "https://x.com/thsottiaux/status/2116692827459747906",
+    "id": "2116942192497533418",
+    "canonicalId": "2116942192497533418",
+    "text": "@TokenGremlin I demand a banked reset",
+    "createdAt": "2026-11-01T17:15:24.000Z",
+    "url": "https://x.com/thsottiaux/status/2116942192497533418",
     "media": []
   },
   "eventParserVersion": 5
