@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T01:02:06.564Z",
+  "updatedAt": "2026-11-02T07:34:48.435Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-02T01:02:06.562Z",
-    "lastSuccessAt": "2026-11-02T01:02:06.562Z",
+    "lastCheckedAt": "2026-11-02T07:34:48.431Z",
+    "lastSuccessAt": "2026-11-02T07:34:48.431Z",
     "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2117035794678546764",
-    "text": "Day 28/ Banked 2/2",
-    "url": "https://x.com/thsottiaux/status/2117035794678546764",
-    "postCreatedAt": "2026-11-01T23:27:20.000Z"
+    "id": "2117151862705230048",
+    "text": "@poteto I finished it though",
+    "url": "https://x.com/thsottiaux/status/2117151862705230048",
+    "postCreatedAt": "2026-11-02T07:08:33.000Z"
   },
   "latest": {
     "reset": null,
