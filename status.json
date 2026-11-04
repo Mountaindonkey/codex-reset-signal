@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T14:52:50.395Z",
+  "updatedAt": "2026-11-04T20:58:09.623Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T14:52:50.392Z",
-    "lastSuccessAt": "2026-11-04T14:52:50.392Z",
-    "lastRunStatus": "checked-5-posts"
+    "lastCheckedAt": "2026-11-04T20:58:09.394Z",
+    "lastSuccessAt": "2026-11-04T20:58:09.394Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2117889346426823037",
-    "text": "@haydenfield Asked chat and it confirmed the story",
-    "url": "https://x.com/thsottiaux/status/2117889346426823037",
-    "postCreatedAt": "2026-11-04T07:59:03.000Z"
+    "id": "2118024737070957009",
+    "text": "@AnikaCodes I was moved to the basement yesterday",
+    "url": "https://x.com/thsottiaux/status/2118024737070957009",
+    "postCreatedAt": "2026-11-04T16:57:02.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
+      "id": "2118024737070957009",
+      "text": "@AnikaCodes I was moved to the basement yesterday",
+      "url": "https://x.com/thsottiaux/status/2118024737070957009",
+      "postCreatedAt": "2026-11-04T16:57:02.000Z",
+      "detectedAt": "2026-11-04T20:58:09.394Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@AnikaCodes I was moved to the basement yesterday",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@AnikaCodes I was moved to the basement yesterday",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "668b7b66861cfbbbf7cbf6379e9aac08ec20414acb64b5522a31eb87aeaaac1b",
       "id": "2117746467058405665",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "By midnight PST",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
-      "id": "2114200152701575656",
-      "text": "Day 20/ Rest and reset",
-      "url": "https://x.com/thsottiaux/status/2114200152701575656",
-      "postCreatedAt": "2026-10-25T03:39:31.000Z",
-      "detectedAt": "2026-10-25T07:44:25.877Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 20/ Rest and reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 20/ Rest and reset",
-            "note": "未形成明确的重置承诺或完成确认"
           }
         }
       ],
