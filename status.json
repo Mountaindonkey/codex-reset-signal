@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T20:58:09.623Z",
+  "updatedAt": "2026-11-05T01:19:39.319Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T20:58:09.394Z",
-    "lastSuccessAt": "2026-11-04T20:58:09.394Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-11-05T01:19:39.041Z",
+    "lastSuccessAt": "2026-11-05T01:19:39.041Z",
+    "lastRunStatus": "checked-8-posts"
   },
   "latestObservedPost": {
-    "id": "2118024737070957009",
-    "text": "@AnikaCodes I was moved to the basement yesterday",
-    "url": "https://x.com/thsottiaux/status/2118024737070957009",
-    "postCreatedAt": "2026-11-04T16:57:02.000Z"
+    "id": "2118147545931374976",
+    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
+    "url": "https://x.com/thsottiaux/status/2118147545931374976",
+    "postCreatedAt": "2026-11-05T01:05:02.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
+      "id": "2118138648214585591",
+      "text": "Welcome Cat. Stoked to be building together soon.",
+      "url": "https://x.com/thsottiaux/status/2118138648214585591",
+      "postCreatedAt": "2026-11-05T00:29:41.000Z",
+      "detectedAt": "2026-11-05T01:19:39.037Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Welcome Cat. Stoked to be building together soon.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Welcome Cat. Stoked to be building together soon.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
       "id": "2118024737070957009",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "@theo Not a real improvement, put the reset in the bag",
             "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "b8775d91a923e8d235a471cd4053c3cbb1e73ff22575f20b235b4e8d4ab61e2d",
-      "id": "2114200291319124163",
-      "text": "By midnight PST",
-      "url": "https://x.com/thsottiaux/status/2114200291319124163",
-      "postCreatedAt": "2026-10-25T03:40:04.000Z",
-      "detectedAt": "2026-10-25T07:44:25.878Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "By midnight PST",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "By midnight PST",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }
       ],
