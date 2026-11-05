@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T16:14:20.349Z",
+  "updatedAt": "2026-11-05T22:00:06.027Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T16:14:20.346Z",
-    "lastSuccessAt": "2026-11-05T16:14:20.346Z",
+    "lastCheckedAt": "2026-11-05T22:00:05.873Z",
+    "lastSuccessAt": "2026-11-05T22:00:05.873Z",
     "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2118255144836161582",
-    "text": "@theo @thdxr Congrats I guess",
-    "url": "https://x.com/thsottiaux/status/2118255144836161582",
-    "postCreatedAt": "2026-11-05T08:12:36.000Z"
+    "id": "2118444105969926407",
+    "text": "Come push the frontier of fluffiness",
+    "url": "https://x.com/thsottiaux/status/2118444105969926407",
+    "postCreatedAt": "2026-11-05T20:43:28.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "82539943e4ab297bbe0de3e6a5962bba4ebec47770bb2b898ae8b7151e9b75b7",
+      "id": "2118443570298568886",
+      "text": "@kimmonismus Don't know, I live in the basement now",
+      "url": "https://x.com/thsottiaux/status/2118443570298568886",
+      "postCreatedAt": "2026-11-05T20:41:20.000Z",
+      "detectedAt": "2026-11-05T22:00:05.873Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@kimmonismus Don't know, I live in the basement now",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@kimmonismus Don't know, I live in the basement now",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
       "id": "2118138648214585591",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
-      "id": "2114228044072403055",
-      "text": "@theo Not a real improvement, put the reset in the bag",
-      "url": "https://x.com/thsottiaux/status/2114228044072403055",
-      "postCreatedAt": "2026-10-25T05:30:20.000Z",
-      "detectedAt": "2026-10-25T07:44:25.878Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@theo Not a real improvement, put the reset in the bag",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@theo Not a real improvement, put the reset in the bag",
-            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
           }
         }
       ],
