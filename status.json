@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T07:58:20.958Z",
+  "updatedAt": "2026-11-05T16:14:20.349Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T07:58:20.954Z",
-    "lastSuccessAt": "2026-11-05T07:58:20.954Z",
+    "lastCheckedAt": "2026-11-05T16:14:20.346Z",
+    "lastSuccessAt": "2026-11-05T16:14:20.346Z",
     "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2118250631165300747",
-    "text": "Follow Samir for dot updates",
-    "url": "https://x.com/thsottiaux/status/2118250631165300747",
-    "postCreatedAt": "2026-11-05T07:54:40.000Z"
+    "id": "2118255144836161582",
+    "text": "@theo @thdxr Congrats I guess",
+    "url": "https://x.com/thsottiaux/status/2118255144836161582",
+    "postCreatedAt": "2026-11-05T08:12:36.000Z"
   },
   "latest": {
     "reset": null,
