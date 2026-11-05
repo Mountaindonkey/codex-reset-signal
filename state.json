@@ -3,16 +3,15 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118147545931374976",
-  "lastCheckedAt": "2026-11-05T01:19:39.041Z",
-  "lastSuccessAt": "2026-11-05T01:19:39.041Z",
-  "lastRunStatus": "checked-8-posts",
-  "postsScanned": 126,
+  "sinceId": "2118250631165300747",
+  "lastCheckedAt": "2026-11-05T07:58:20.954Z",
+  "lastSuccessAt": "2026-11-05T07:58:20.954Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 131,
   "matches": [
     {
       "version": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
       "id": "2118138648214585591",
-      "canonicalId": "2118138648214585591",
       "text": "Welcome Cat. Stoked to be building together soon.",
       "createdAt": "2026-11-05T00:29:41.000Z",
       "url": "https://x.com/thsottiaux/status/2118138648214585591",
@@ -32,11 +31,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-05T01:19:39.045Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-05T01:19:39.045Z"
+      ]
     },
     {
       "version": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
@@ -706,14 +705,19 @@
     "2118146834325733453": "7170fc0bc23c620d8bc7e378494bac28c084e047a323a9f26cc052dc8c51782b",
     "2118147019030335666": "d516a357d8a301866e0e972f00615a642c5b241f389d4eab790fb3da1184d665",
     "2118147091155529874": "62734b96854afe3fc8256817a7e78fc555641732f4da15d3cabbe0eb029f17fe",
-    "2118147545931374976": "ccd7bdf6817fe20f7db88a5cc2ea155cffed1acc812f0170d2b5853b5b8bc0b8"
+    "2118147545931374976": "ccd7bdf6817fe20f7db88a5cc2ea155cffed1acc812f0170d2b5853b5b8bc0b8",
+    "2118165504955494695": "703ad6fee61abed6265edf9c6e41ab8b54a2f7787f7ec5b18400df978a54ce56",
+    "2118248900381536740": "53a4b7d7fb5b19a80f458689ca4424df9f297976211415513707bc143adfcb34",
+    "2118249806875533399": "a00fc5d0b30d2f4f1975548a6ef5bba0455e73d2b7564a8b29368094161455a7",
+    "2118250462092914736": "e61869310fe54677be32af7b0fc6c46e14ed4deb11300786073b6915ca8a828d",
+    "2118250631165300747": "5847aa6b3b9d6ad3b759fb8b890fad36ab93684ea7b8311909294f861f88ed27"
   },
   "latestObservedPost": {
-    "id": "2118147545931374976",
-    "canonicalId": "2118147545931374976",
-    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
-    "createdAt": "2026-11-05T01:05:02.000Z",
-    "url": "https://x.com/thsottiaux/status/2118147545931374976",
+    "id": "2118250631165300747",
+    "canonicalId": "2118250631165300747",
+    "text": "Follow Samir for dot updates",
+    "createdAt": "2026-11-05T07:54:40.000Z",
+    "url": "https://x.com/thsottiaux/status/2118250631165300747",
     "media": []
   },
   "eventParserVersion": 5
