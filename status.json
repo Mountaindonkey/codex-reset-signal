@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T16:49:43.001Z",
+  "updatedAt": "2026-11-06T21:46:57.473Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-06T16:49:42.998Z",
-    "lastSuccessAt": "2026-11-06T16:49:42.998Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-06T21:46:57.306Z",
+    "lastSuccessAt": "2026-11-06T21:46:57.306Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2118574897542922697",
-    "text": "@ThePrimeagen My loop caught this. It's the future",
-    "url": "https://x.com/thsottiaux/status/2118574897542922697",
-    "postCreatedAt": "2026-11-06T05:23:11.000Z"
+    "id": "2118802895604994463",
+    "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
+    "url": "https://x.com/thsottiaux/status/2118802895604994463",
+    "postCreatedAt": "2026-11-06T20:29:10.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3",
+      "id": "2118802895604994463",
+      "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
+      "url": "https://x.com/thsottiaux/status/2118802895604994463",
+      "postCreatedAt": "2026-11-06T20:29:10.000Z",
+      "detectedAt": "2026-11-06T21:46:57.306Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "324f650780e0e9fb23fa75775d21a696a84e81b88da4bc281c440578845975db",
       "id": "2118469621011677521",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "@larsencc @bot Not enough resets",
             "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
-      "id": "2114588174249071102",
-      "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
-      "url": "https://x.com/thsottiaux/status/2114588174249071102",
-      "postCreatedAt": "2026-10-26T05:21:22.000Z",
-      "detectedAt": "2026-10-26T07:01:09.759Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "But today is a reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "But today is a reset",
-            "note": "未形成明确的重置承诺或完成确认"
           }
         }
       ],
