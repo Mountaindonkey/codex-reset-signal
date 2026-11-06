@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T22:00:06.027Z",
+  "updatedAt": "2026-11-06T02:08:21.199Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T22:00:05.873Z",
-    "lastSuccessAt": "2026-11-05T22:00:05.873Z",
-    "lastRunStatus": "checked-5-posts"
+    "lastCheckedAt": "2026-11-06T02:08:20.774Z",
+    "lastSuccessAt": "2026-11-06T02:08:20.774Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2118444105969926407",
-    "text": "Come push the frontier of fluffiness",
-    "url": "https://x.com/thsottiaux/status/2118444105969926407",
-    "postCreatedAt": "2026-11-05T20:43:28.000Z"
+    "id": "2118473288368406582",
+    "text": "Generating*",
+    "url": "https://x.com/thsottiaux/status/2118473288368406582",
+    "postCreatedAt": "2026-11-05T22:39:25.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "324f650780e0e9fb23fa75775d21a696a84e81b88da4bc281c440578845975db",
+      "id": "2118469621011677521",
+      "text": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
+      "url": "https://x.com/thsottiaux/status/2118469621011677521",
+      "postCreatedAt": "2026-11-05T22:24:51.000Z",
+      "detectedAt": "2026-11-06T02:08:20.771Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "82539943e4ab297bbe0de3e6a5962bba4ebec47770bb2b898ae8b7151e9b75b7",
       "id": "2118443570298568886",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "But today is a reset",
             "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
-      "id": "2114237083652882932",
-      "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
-      "url": "https://x.com/thsottiaux/status/2114237083652882932",
-      "postCreatedAt": "2026-10-25T06:06:16.000Z",
-      "detectedAt": "2026-10-25T07:44:25.878Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }
       ],
