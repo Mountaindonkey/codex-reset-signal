@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T21:46:57.473Z",
+  "updatedAt": "2026-11-07T01:18:33.574Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-06T21:46:57.306Z",
-    "lastSuccessAt": "2026-11-06T21:46:57.306Z",
+    "lastCheckedAt": "2026-11-07T01:18:33.342Z",
+    "lastSuccessAt": "2026-11-07T01:18:33.342Z",
     "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2118802895604994463",
-    "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-    "url": "https://x.com/thsottiaux/status/2118802895604994463",
-    "postCreatedAt": "2026-11-06T20:29:10.000Z"
+    "id": "2118874107341389982",
+    "text": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
+    "url": "https://x.com/thsottiaux/status/2118874107341389982",
+    "postCreatedAt": "2026-11-07T01:12:08.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "a8c0d655bc16ddc70e0f5380da2e992e7a09853343906b1e2364525e4fe1d8ec",
+      "id": "2118871902366441879",
+      "text": "It's Friday",
+      "url": "https://x.com/thsottiaux/status/2118871902366441879",
+      "postCreatedAt": "2026-11-07T01:03:22.000Z",
+      "detectedAt": "2026-11-07T01:18:33.340Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "It's Friday",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "It's Friday",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3",
       "id": "2118802895604994463",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
-      "id": "2114599388454481930",
-      "text": "@larsencc @bot Not enough resets",
-      "url": "https://x.com/thsottiaux/status/2114599388454481930",
-      "postCreatedAt": "2026-10-26T06:05:56.000Z",
-      "detectedAt": "2026-10-26T07:01:09.762Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@larsencc @bot Not enough resets",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@larsencc @bot Not enough resets",
-            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
           }
         }
       ],
