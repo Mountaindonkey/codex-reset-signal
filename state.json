@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2119309070658318698",
-  "lastCheckedAt": "2026-11-08T07:52:04.343Z",
-  "lastSuccessAt": "2026-11-08T07:52:04.343Z",
-  "lastRunStatus": "checked-10-posts",
+  "lastCheckedAt": "2026-11-08T14:35:13.171Z",
+  "lastSuccessAt": "2026-11-08T14:35:13.171Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 184,
   "matches": [
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
       "id": "2119308687676432672",
-      "canonicalId": "2119308687676432672",
       "text": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
       "createdAt": "2026-11-08T05:59:00.000Z",
       "url": "https://x.com/thsottiaux/status/2119308687676432672",
@@ -32,16 +31,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-08T07:52:04.531Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-08T07:52:04.531Z"
+      ]
     },
     {
       "version": "a242c712cbc15ff33b7853538989a65b688993c810effbcfb9cb8f5a2b21d1c8",
       "id": "2119296267545419987",
-      "canonicalId": "2119296267545419987",
       "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
       "createdAt": "2026-11-08T05:09:39.000Z",
       "url": "https://x.com/thsottiaux/status/2119296267545419987",
@@ -61,11 +59,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-08T07:52:04.349Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-08T07:52:04.349Z"
+      ]
     },
     {
       "version": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
