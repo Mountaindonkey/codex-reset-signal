@@ -3,12 +3,41 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2119161246872429013",
-  "lastCheckedAt": "2026-11-07T22:19:26.944Z",
-  "lastSuccessAt": "2026-11-07T22:19:26.944Z",
+  "sinceId": "2119232059537514598",
+  "lastCheckedAt": "2026-11-08T01:30:29.046Z",
+  "lastSuccessAt": "2026-11-08T01:30:29.046Z",
   "lastRunStatus": "checked-2-posts",
-  "postsScanned": 172,
+  "postsScanned": 174,
   "matches": [
+    {
+      "version": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
+      "id": "2119232059537514598",
+      "canonicalId": "2119232059537514598",
+      "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
+      "createdAt": "2026-11-08T00:54:31.000Z",
+      "url": "https://x.com/thsottiaux/status/2119232059537514598",
+      "media": [],
+      "detectedAt": "2026-11-08T01:30:29.046Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-08T01:30:29.048Z"
+    },
     {
       "version": "a8c0d655bc16ddc70e0f5380da2e992e7a09853343906b1e2364525e4fe1d8ec",
       "id": "2118871902366441879",
@@ -540,34 +569,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "1bf88207313e0d5f78647dbb937fcfa533caa2179ef322464f9cbbfd1d4416d2",
-      "id": "2114800277677092936",
-      "text": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.",
-      "createdAt": "2026-10-26T19:24:11.000Z",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "media": [],
-      "detectedAt": "2026-10-26T19:53:06.078Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-26T19:53:06.081Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -743,14 +744,16 @@
     "2119113859747426370": "5d0ddd1e64060b10bd9c2600def0e32f1231461917c1e57f754520447dabb741",
     "2119113983118672370": "b0e7aae87602efa2652913245708e3d52d0a4df0bd123ccdba42810a0fd75401",
     "2119160727164604874": "7d4010a45e29be51aadaa5ef6828c1414f968b597b7ab1c0e6889409f636a3df",
-    "2119161246872429013": "1c064b928924cfe81c59d2132bd4645f56f4be61fd7b2790bfe4f78b2c515509"
+    "2119161246872429013": "1c064b928924cfe81c59d2132bd4645f56f4be61fd7b2790bfe4f78b2c515509",
+    "2119211022410228094": "f9377e02659713e34d7909918591505b72f8642ce0361204eb4c47c01976dafd",
+    "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25"
   },
   "latestObservedPost": {
-    "id": "2119161246872429013",
-    "canonicalId": "2119161246872429013",
-    "text": "@AdamHoltererer What's the before, after?",
-    "createdAt": "2026-11-07T20:13:08.000Z",
-    "url": "https://x.com/thsottiaux/status/2119161246872429013",
+    "id": "2119232059537514598",
+    "canonicalId": "2119232059537514598",
+    "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
+    "createdAt": "2026-11-08T00:54:31.000Z",
+    "url": "https://x.com/thsottiaux/status/2119232059537514598",
     "media": []
   },
   "eventParserVersion": 5
