@@ -3,12 +3,70 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2119611877810639072",
-  "lastCheckedAt": "2026-11-10T02:39:50.199Z",
-  "lastSuccessAt": "2026-11-10T02:39:50.199Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 187,
+  "sinceId": "2120021043876106429",
+  "lastCheckedAt": "2026-11-10T10:24:02.933Z",
+  "lastSuccessAt": "2026-11-10T10:24:02.933Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 189,
   "matches": [
+    {
+      "version": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7",
+      "id": "2120021043876106429",
+      "canonicalId": "2120021043876106429",
+      "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+      "createdAt": "2026-11-10T05:09:39.000Z",
+      "url": "https://x.com/thsottiaux/status/2120021043876106429",
+      "media": [],
+      "detectedAt": "2026-11-10T10:24:02.933Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-10T10:24:03.114Z"
+    },
+    {
+      "version": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
+      "id": "2120018604691521609",
+      "canonicalId": "2120018604691521609",
+      "text": "@ajambrosino good evening",
+      "createdAt": "2026-11-10T04:59:58.000Z",
+      "url": "https://x.com/thsottiaux/status/2120018604691521609",
+      "media": [],
+      "detectedAt": "2026-11-10T10:24:02.932Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@ajambrosino good evening",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@ajambrosino good evening",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-10T10:24:02.937Z"
+    },
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
       "id": "2119308687676432672",
@@ -512,62 +570,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
-      "id": "2115588390414581916",
-      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-      "createdAt": "2026-10-28T23:35:52.000Z",
-      "url": "https://x.com/thsottiaux/status/2115588390414581916",
-      "media": [],
-      "detectedAt": "2026-10-28T23:38:45.961Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-28T23:38:45.966Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "c5e78a303d2682f0170b5276d1f2659c413a293537d86d3a8b0827105be040e1",
-      "id": "2115330127886463244",
-      "text": "And it's done. See you tomorrow for some good news.",
-      "createdAt": "2026-10-28T06:29:38.000Z",
-      "url": "https://x.com/thsottiaux/status/2115330127886463244",
-      "media": [],
-      "detectedAt": "2026-10-28T07:44:39.180Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "And it's done. See you tomorrow for some good news.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "And it's done. See you tomorrow for some good news.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-28T07:44:39.464Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -758,14 +760,16 @@
     "2119309070658318698": "d8ef0e6c6eda079386f56be8a18afac7363e384c3abf8487114b0085b83e3073",
     "2119528988033073501": "ef7eb84d4cd1349aaf337ab58efa0b215b5caddca923e33f792f541bc420b7cd",
     "2119532403593191733": "8f6d3dfd8382d776462fd8fcefcf16fbeb244ae3d2cabe5e2a25643302da87f0",
-    "2119611877810639072": "9a693cf09967be78d16422b13de22b648726dbdebc10c4bb56e9780db1efd7d7"
+    "2119611877810639072": "9a693cf09967be78d16422b13de22b648726dbdebc10c4bb56e9780db1efd7d7",
+    "2120018604691521609": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
+    "2120021043876106429": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7"
   },
   "latestObservedPost": {
-    "id": "2119611877810639072",
-    "canonicalId": "2119611877810639072",
-    "text": "@maria_rcks Congrats to Theo",
-    "createdAt": "2026-11-09T02:03:46.000Z",
-    "url": "https://x.com/thsottiaux/status/2119611877810639072",
+    "id": "2120021043876106429",
+    "canonicalId": "2120021043876106429",
+    "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+    "createdAt": "2026-11-10T05:09:39.000Z",
+    "url": "https://x.com/thsottiaux/status/2120021043876106429",
     "media": []
   },
   "eventParserVersion": 5

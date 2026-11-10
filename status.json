@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T02:39:50.202Z",
+  "updatedAt": "2026-11-10T10:24:03.273Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-10T02:39:50.199Z",
-    "lastSuccessAt": "2026-11-10T02:39:50.199Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-10T10:24:02.933Z",
+    "lastSuccessAt": "2026-11-10T10:24:02.933Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2119611877810639072",
-    "text": "@maria_rcks Congrats to Theo",
-    "url": "https://x.com/thsottiaux/status/2119611877810639072",
-    "postCreatedAt": "2026-11-09T02:03:46.000Z"
+    "id": "2120021043876106429",
+    "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+    "url": "https://x.com/thsottiaux/status/2120021043876106429",
+    "postCreatedAt": "2026-11-10T05:09:39.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,58 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7",
+      "id": "2120021043876106429",
+      "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+      "url": "https://x.com/thsottiaux/status/2120021043876106429",
+      "postCreatedAt": "2026-11-10T05:09:39.000Z",
+      "detectedAt": "2026-11-10T10:24:02.933Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
+      "id": "2120018604691521609",
+      "text": "@ajambrosino good evening",
+      "url": "https://x.com/thsottiaux/status/2120018604691521609",
+      "postCreatedAt": "2026-11-10T04:59:58.000Z",
+      "detectedAt": "2026-11-10T10:24:02.932Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@ajambrosino good evening",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@ajambrosino good evening",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
       "id": "2119308687676432672",
@@ -503,58 +555,6 @@
             "start": null,
             "end": null,
             "evidence": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
-      "id": "2115588390414581916",
-      "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-      "url": "https://x.com/thsottiaux/status/2115588390414581916",
-      "postCreatedAt": "2026-10-28T23:35:52.000Z",
-      "detectedAt": "2026-10-28T23:38:45.961Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "c5e78a303d2682f0170b5276d1f2659c413a293537d86d3a8b0827105be040e1",
-      "id": "2115330127886463244",
-      "text": "And it's done. See you tomorrow for some good news.",
-      "url": "https://x.com/thsottiaux/status/2115330127886463244",
-      "postCreatedAt": "2026-10-28T06:29:38.000Z",
-      "detectedAt": "2026-10-28T07:44:39.180Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "And it's done. See you tomorrow for some good news.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "And it's done. See you tomorrow for some good news.",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }
