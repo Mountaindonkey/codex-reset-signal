@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2120021043876106429",
-  "lastCheckedAt": "2026-11-10T10:24:02.933Z",
-  "lastSuccessAt": "2026-11-10T10:24:02.933Z",
-  "lastRunStatus": "checked-2-posts",
+  "lastCheckedAt": "2026-11-10T18:01:50.882Z",
+  "lastSuccessAt": "2026-11-10T18:01:50.882Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 189,
   "matches": [
     {
       "version": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7",
       "id": "2120021043876106429",
-      "canonicalId": "2120021043876106429",
       "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
       "createdAt": "2026-11-10T05:09:39.000Z",
       "url": "https://x.com/thsottiaux/status/2120021043876106429",
@@ -32,16 +31,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-10T10:24:03.114Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-10T10:24:03.114Z"
+      ]
     },
     {
       "version": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
       "id": "2120018604691521609",
-      "canonicalId": "2120018604691521609",
       "text": "@ajambrosino good evening",
       "createdAt": "2026-11-10T04:59:58.000Z",
       "url": "https://x.com/thsottiaux/status/2120018604691521609",
@@ -61,11 +59,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-10T10:24:02.937Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-10T10:24:02.937Z"
+      ]
     },
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
