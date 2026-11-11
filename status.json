@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T02:45:04.385Z",
+  "updatedAt": "2026-11-11T09:52:35.854Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-11T02:45:04.130Z",
-    "lastSuccessAt": "2026-11-11T02:45:04.130Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-11T09:52:35.680Z",
+    "lastSuccessAt": "2026-11-11T09:52:35.680Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2120304649807020238",
-    "text": "@embw_l0x We're assembling one of the best teams ever and I do talk to folks at Anthropic every once in a while. Couldn't be more excited for the months ahead.",
-    "url": "https://x.com/thsottiaux/status/2120304649807020238",
-    "postCreatedAt": "2026-11-10T23:56:36.000Z"
+    "id": "2120411235716063700",
+    "text": "@iso_morph Many such cases.",
+    "url": "https://x.com/thsottiaux/status/2120411235716063700",
+    "postCreatedAt": "2026-11-11T07:00:08.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,58 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
+      "id": "2120410480204525936",
+      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+      "url": "https://x.com/thsottiaux/status/2120410480204525936",
+      "postCreatedAt": "2026-11-11T06:57:08.000Z",
+      "detectedAt": "2026-11-11T09:52:35.679Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Perhaps also a good time for a banked reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Perhaps also a good time for a banked reset",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
+      "id": "2120410006273380750",
+      "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+      "url": "https://x.com/thsottiaux/status/2120410006273380750",
+      "postCreatedAt": "2026-11-11T06:55:15.000Z",
+      "detectedAt": "2026-11-11T09:52:35.652Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "It’s been a while without resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "It’s been a while without resets",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "28c975cc7ab55166b765948c8d58bf5d4cedf62d98bae80545d435429b344dfd",
       "id": "2120304649807020238",
@@ -504,58 +556,6 @@
             "end": null,
             "evidence": "Next two days will be resets… banked… do with this what you may 👀",
             "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "42d1e792306fc62d5d3a8413bd25a38fb4c9ab5d530f62bb7e39a9179dfffb0a",
-      "id": "2116256600436641887",
-      "text": "@claudeai Better announce 28 days of reset",
-      "url": "https://x.com/thsottiaux/status/2116256600436641887",
-      "postCreatedAt": "2026-10-30T19:51:06.000Z",
-      "detectedAt": "2026-10-30T22:35:19.930Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@claudeai Better announce 28 days of reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@claudeai Better announce 28 days of reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
-      "id": "2115851621137784832",
-      "text": "Graduating from The Reset Company to The Token Company.",
-      "url": "https://x.com/thsottiaux/status/2115851621137784832",
-      "postCreatedAt": "2026-10-29T17:01:51.000Z",
-      "detectedAt": "2026-10-29T20:48:29.216Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Graduating from The Reset Company to The Token Company",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Graduating from The Reset Company to The Token Company",
-            "note": "未形成明确的重置承诺或完成确认"
           }
         }
       ],
