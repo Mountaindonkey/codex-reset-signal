@@ -3,12 +3,70 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2120621485442339277",
-  "lastCheckedAt": "2026-11-12T20:26:45.719Z",
-  "lastSuccessAt": "2026-11-12T20:26:45.719Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 197,
+  "sinceId": "2121036562058400200",
+  "lastCheckedAt": "2026-11-13T01:19:53.129Z",
+  "lastSuccessAt": "2026-11-13T01:19:53.129Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 199,
   "matches": [
+    {
+      "version": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e",
+      "id": "2121036562058400200",
+      "canonicalId": "2121036562058400200",
+      "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+      "createdAt": "2026-11-13T00:24:58.000Z",
+      "url": "https://x.com/thsottiaux/status/2121036562058400200",
+      "media": [],
+      "detectedAt": "2026-11-13T01:19:53.129Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-13T01:19:53.356Z"
+    },
+    {
+      "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+      "id": "2120999993079451919",
+      "canonicalId": "2120999993079451919",
+      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+      "createdAt": "2026-11-12T21:59:39.000Z",
+      "url": "https://x.com/thsottiaux/status/2120999993079451919",
+      "media": [],
+      "detectedAt": "2026-11-13T01:19:53.129Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-13T01:19:53.132Z"
+    },
     {
       "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
       "id": "2120410480204525936",
@@ -512,62 +570,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "1279f2fd01cac21e97b2885ed98044984910a98fa5181e3e0a8c10aacb6a84ba",
-      "id": "2116935821534380166",
-      "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
-      "createdAt": "2026-11-01T16:50:05.000Z",
-      "url": "https://x.com/thsottiaux/status/2116935821534380166",
-      "media": [],
-      "detectedAt": "2026-11-01T17:56:59.621Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-01T17:56:59.653Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "d880250cf53c9de3e43d0999b11779dbb682ffcabbab23287ce69a74332d8e6a",
-      "id": "2116405414921384099",
-      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
-      "createdAt": "2026-10-31T05:42:26.000Z",
-      "url": "https://x.com/thsottiaux/status/2116405414921384099",
-      "media": [],
-      "detectedAt": "2026-10-31T07:32:35.123Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Next two days will be resets… banked… do with this what you may 👀",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Next two days will be resets… banked… do with this what you may 👀",
-            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-31T07:32:35.136Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -768,14 +770,16 @@
     "2120410006273380750": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
     "2120410480204525936": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
     "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0",
-    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f"
+    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f",
+    "2120999993079451919": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+    "2121036562058400200": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e"
   },
   "latestObservedPost": {
-    "id": "2120621485442339277",
-    "canonicalId": "2120621485442339277",
-    "text": "@charlierguo Hi 👋 Buzz Buzz",
-    "createdAt": "2026-11-11T20:55:36.000Z",
-    "url": "https://x.com/thsottiaux/status/2120621485442339277",
+    "id": "2121036562058400200",
+    "canonicalId": "2121036562058400200",
+    "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+    "createdAt": "2026-11-13T00:24:58.000Z",
+    "url": "https://x.com/thsottiaux/status/2121036562058400200",
     "media": []
   },
   "eventParserVersion": 5
