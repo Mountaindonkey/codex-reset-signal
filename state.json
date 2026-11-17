@@ -3,12 +3,49 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2122534533216268747",
-  "lastCheckedAt": "2026-11-17T10:38:55.048Z",
-  "lastSuccessAt": "2026-11-17T10:38:55.048Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 206,
+  "sinceId": "2122754551187132438",
+  "lastCheckedAt": "2026-11-17T19:23:07.546Z",
+  "lastSuccessAt": "2026-11-17T19:23:07.546Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 208,
   "matches": [
+    {
+      "version": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b",
+      "id": "2122754551187132438",
+      "canonicalId": "2122754551187132438",
+      "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+      "createdAt": "2026-11-17T18:11:38.000Z",
+      "url": "https://x.com/thsottiaux/status/2122754551187132438",
+      "media": [
+        {
+          "mediaKey": "2122754370001600512",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXWJ2klagAAb-MU.png?name=orig",
+          "previewImageUrl": null,
+          "altText": null
+        }
+      ],
+      "detectedAt": "2026-11-17T19:23:07.546Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-17T19:23:07.549Z"
+    },
     {
       "version": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e",
       "id": "2121036562058400200",
@@ -540,34 +577,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "25b71439c3a8a01325e80ded94da05f6763661bc45d89129c9d069644d9a7325",
-      "id": "2116936031866077423",
-      "text": "My dog sent you the meeting notes from yesterday, did you see them?",
-      "createdAt": "2026-11-01T16:50:55.000Z",
-      "url": "https://x.com/thsottiaux/status/2116936031866077423",
-      "media": [],
-      "detectedAt": "2026-11-01T17:56:59.621Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "My dog sent you the meeting notes from yesterday, did you see them?",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "My dog sent you the meeting notes from yesterday, did you see them?",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-01T17:56:59.898Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -777,19 +786,21 @@
     "2121134582527594929": "99f20c42e8876eb0b4b8865205e29c3f03ca08d8708dfb8af4f9ee5082eddf74",
     "2121845965997101118": "cd3a8cae6a2e03fc3ac1f1f6e9ab4a38331b5adabefe02b336057a91a0cac762",
     "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf",
-    "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c"
+    "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c",
+    "2122753991000133943": "6a081793cc0525495a517d3c984e419ddf6add9235c297098426c156c4bc7910",
+    "2122754551187132438": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b"
   },
   "latestObservedPost": {
-    "id": "2122534533216268747",
-    "canonicalId": "2122534533216268747",
-    "text": "@AdamHoltererer 6.1 Sol forever https://t.co/1aDFb686jX",
-    "createdAt": "2026-11-17T03:37:22.000Z",
-    "url": "https://x.com/thsottiaux/status/2122534533216268747",
+    "id": "2122754551187132438",
+    "canonicalId": "2122754551187132438",
+    "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+    "createdAt": "2026-11-17T18:11:38.000Z",
+    "url": "https://x.com/thsottiaux/status/2122754551187132438",
     "media": [
       {
-        "mediaKey": "2122534506628591616",
+        "mediaKey": "2122754370001600512",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/HXTB41sbMAA55mX.jpg?name=orig",
+        "url": "https://pbs.twimg.com/media/HXWJ2klagAAb-MU.png?name=orig",
         "previewImageUrl": null,
         "altText": null
       }
