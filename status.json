@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T01:43:34.242Z",
+  "updatedAt": "2026-11-18T09:11:57.085Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-18T01:43:34.040Z",
-    "lastSuccessAt": "2026-11-18T01:43:34.040Z",
-    "lastRunStatus": "checked-5-posts"
+    "lastCheckedAt": "2026-11-18T09:11:57.012Z",
+    "lastSuccessAt": "2026-11-18T09:11:57.012Z",
+    "lastRunStatus": "checked-13-posts"
   },
   "latestObservedPost": {
-    "id": "2122851449474605281",
-    "text": "@skalskip92 Awkward",
-    "url": "https://x.com/thsottiaux/status/2122851449474605281",
-    "postCreatedAt": "2026-11-18T00:36:40.000Z"
+    "id": "2122954129094111394",
+    "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
+    "url": "https://x.com/thsottiaux/status/2122954129094111394",
+    "postCreatedAt": "2026-11-18T07:24:41.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "de39e38a4257079e777d79a79378972f87e0b46e62468cea1e836524f52fea41",
+      "id": "2122929634916679820",
+      "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+      "url": "https://x.com/thsottiaux/status/2122929634916679820",
+      "postCreatedAt": "2026-11-18T05:47:21.000Z",
+      "detectedAt": "2026-11-18T09:11:57.011Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
       "id": "2122816458711548126",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
-      "id": "2116942192497533418",
-      "text": "@TokenGremlin I demand a banked reset",
-      "url": "https://x.com/thsottiaux/status/2116942192497533418",
-      "postCreatedAt": "2026-11-01T17:15:24.000Z",
-      "detectedAt": "2026-11-01T17:56:59.649Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@TokenGremlin I demand a banked reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@TokenGremlin I demand a banked reset",
-            "note": "原文没有可确定的时间"
           }
         }
       ],
