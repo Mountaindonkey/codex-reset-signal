@@ -3,16 +3,44 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2122954129094111394",
-  "lastCheckedAt": "2026-11-18T09:11:57.012Z",
-  "lastSuccessAt": "2026-11-18T09:11:57.012Z",
-  "lastRunStatus": "checked-13-posts",
-  "postsScanned": 226,
+  "sinceId": "2123113107048501273",
+  "lastCheckedAt": "2026-11-18T18:02:08.940Z",
+  "lastSuccessAt": "2026-11-18T18:02:08.940Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 229,
   "matches": [
+    {
+      "version": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc",
+      "id": "2123113107048501273",
+      "canonicalId": "2123113107048501273",
+      "text": "How is 6.2 Sol treating you today?",
+      "createdAt": "2026-11-18T17:56:24.000Z",
+      "url": "https://x.com/thsottiaux/status/2123113107048501273",
+      "media": [],
+      "detectedAt": "2026-11-18T18:02:08.940Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "How is 6.2 Sol treating you today?",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "How is 6.2 Sol treating you today?",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-18T18:02:08.943Z"
+    },
     {
       "version": "de39e38a4257079e777d79a79378972f87e0b46e62468cea1e836524f52fea41",
       "id": "2122929634916679820",
-      "canonicalId": "2122929634916679820",
       "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
       "createdAt": "2026-11-18T05:47:21.000Z",
       "url": "https://x.com/thsottiaux/status/2122929634916679820",
@@ -32,11 +60,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-18T09:11:57.015Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-18T09:11:57.015Z"
+      ]
     },
     {
       "version": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
@@ -549,34 +577,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "668b7b66861cfbbbf7cbf6379e9aac08ec20414acb64b5522a31eb87aeaaac1b",
-      "id": "2117746467058405665",
-      "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-      "createdAt": "2026-11-03T22:31:18.000Z",
-      "url": "https://x.com/thsottiaux/status/2117746467058405665",
-      "media": [],
-      "detectedAt": "2026-11-04T00:18:23.896Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-04T00:18:24.030Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -806,14 +806,17 @@
     "2122952910137135379": "f5cc194caf6a5e0a66021b9bd15d8b965aa6787a4229b8191267cb25d45635df",
     "2122953161921196052": "f90e69d07bfc18bb16ea2f01d0a75f14ce597c3bb768c053f3180ce533dc97a2",
     "2122953953851879880": "97536de6742ac9ddfb05b3db50c4d79abc158822ffa8f8a95f8f13262d3c54e5",
-    "2122954129094111394": "397ea7bb97dc934a0631a57b5240bf08fa3c03ac6a989538c5a97ff220140605"
+    "2122954129094111394": "397ea7bb97dc934a0631a57b5240bf08fa3c03ac6a989538c5a97ff220140605",
+    "2123112623294320913": "d849906bae4379029330b2f60bbf7660d6ab3a9438b04e1c00f3406c20bf753c",
+    "2123112903809318994": "78c4f530d9f743f1ec0c41da49a2fd5b38d251f59db4fc4798bce69e8705cb8f",
+    "2123113107048501273": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc"
   },
   "latestObservedPost": {
-    "id": "2122954129094111394",
-    "canonicalId": "2122954129094111394",
-    "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
-    "createdAt": "2026-11-18T07:24:41.000Z",
-    "url": "https://x.com/thsottiaux/status/2122954129094111394",
+    "id": "2123113107048501273",
+    "canonicalId": "2123113107048501273",
+    "text": "How is 6.2 Sol treating you today?",
+    "createdAt": "2026-11-18T17:56:24.000Z",
+    "url": "https://x.com/thsottiaux/status/2123113107048501273",
     "media": []
   },
   "eventParserVersion": 5
