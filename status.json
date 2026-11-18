@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T19:23:07.782Z",
+  "updatedAt": "2026-11-18T01:43:34.242Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-17T19:23:07.546Z",
-    "lastSuccessAt": "2026-11-17T19:23:07.546Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-11-18T01:43:34.040Z",
+    "lastSuccessAt": "2026-11-18T01:43:34.040Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2122754551187132438",
-    "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-    "url": "https://x.com/thsottiaux/status/2122754551187132438",
-    "postCreatedAt": "2026-11-17T18:11:38.000Z"
+    "id": "2122851449474605281",
+    "text": "@skalskip92 Awkward",
+    "url": "https://x.com/thsottiaux/status/2122851449474605281",
+    "postCreatedAt": "2026-11-18T00:36:40.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
+      "id": "2122816458711548126",
+      "text": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+      "url": "https://x.com/thsottiaux/status/2122816458711548126",
+      "postCreatedAt": "2026-11-17T22:17:38.000Z",
+      "detectedAt": "2026-11-18T01:43:34.040Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b",
       "id": "2122754551187132438",
@@ -530,32 +556,6 @@
             "end": null,
             "evidence": "@TokenGremlin I demand a banked reset",
             "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
-      "id": "2116936205623611781",
-      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-      "url": "https://x.com/thsottiaux/status/2116936205623611781",
-      "postCreatedAt": "2026-11-01T16:51:36.000Z",
-      "detectedAt": "2026-11-01T17:56:59.622Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }
       ],

@@ -3,16 +3,44 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2122754551187132438",
-  "lastCheckedAt": "2026-11-17T19:23:07.546Z",
-  "lastSuccessAt": "2026-11-17T19:23:07.546Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 208,
+  "sinceId": "2122851449474605281",
+  "lastCheckedAt": "2026-11-18T01:43:34.040Z",
+  "lastSuccessAt": "2026-11-18T01:43:34.040Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 213,
   "matches": [
+    {
+      "version": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
+      "id": "2122816458711548126",
+      "canonicalId": "2122816458711548126",
+      "text": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+      "createdAt": "2026-11-17T22:17:38.000Z",
+      "url": "https://x.com/thsottiaux/status/2122816458711548126",
+      "media": [],
+      "detectedAt": "2026-11-18T01:43:34.040Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-18T01:43:34.043Z"
+    },
     {
       "version": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b",
       "id": "2122754551187132438",
-      "canonicalId": "2122754551187132438",
       "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
       "createdAt": "2026-11-17T18:11:38.000Z",
       "url": "https://x.com/thsottiaux/status/2122754551187132438",
@@ -40,11 +68,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-17T19:23:07.549Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-17T19:23:07.549Z"
+      ]
     },
     {
       "version": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e",
@@ -549,34 +577,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
-      "id": "2116936205623611781",
-      "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-      "createdAt": "2026-11-01T16:51:36.000Z",
-      "url": "https://x.com/thsottiaux/status/2116936205623611781",
-      "media": [],
-      "detectedAt": "2026-11-01T17:56:59.622Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-01T17:57:00.017Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -788,23 +788,20 @@
     "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf",
     "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c",
     "2122753991000133943": "6a081793cc0525495a517d3c984e419ddf6add9235c297098426c156c4bc7910",
-    "2122754551187132438": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b"
+    "2122754551187132438": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b",
+    "2122815564821434613": "ce7597add272b03052af2fd26bd10a027c9c742ec502e97660042f7257a3142b",
+    "2122816053348847795": "4412beb5878a6cfb12e674d4d5b7b556ac61c4507249480c895a5547e1d66269",
+    "2122816458711548126": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
+    "2122850498202271748": "a03e5ede914cd7784429a1aeb7933adde730518919d878051c8394426dd49cab",
+    "2122851449474605281": "47af6c5b6161f17623b4a552240be9d993cfa1f1e497b9aa09f651436c8a9750"
   },
   "latestObservedPost": {
-    "id": "2122754551187132438",
-    "canonicalId": "2122754551187132438",
-    "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-    "createdAt": "2026-11-17T18:11:38.000Z",
-    "url": "https://x.com/thsottiaux/status/2122754551187132438",
-    "media": [
-      {
-        "mediaKey": "2122754370001600512",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/HXWJ2klagAAb-MU.png?name=orig",
-        "previewImageUrl": null,
-        "altText": null
-      }
-    ]
+    "id": "2122851449474605281",
+    "canonicalId": "2122851449474605281",
+    "text": "@skalskip92 Awkward",
+    "createdAt": "2026-11-18T00:36:40.000Z",
+    "url": "https://x.com/thsottiaux/status/2122851449474605281",
+    "media": []
   },
   "eventParserVersion": 5
 }
