@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T16:42:02.403Z",
+  "updatedAt": "2026-11-19T23:14:20.112Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-19T16:42:02.400Z",
-    "lastSuccessAt": "2026-11-19T16:42:02.400Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-19T23:14:19.854Z",
+    "lastSuccessAt": "2026-11-19T23:14:19.854Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2123179276199735535",
-    "text": "@DannyIO It does like math",
-    "url": "https://x.com/thsottiaux/status/2123179276199735535",
-    "postCreatedAt": "2026-11-18T22:19:20.000Z"
+    "id": "2123527849403674729",
+    "text": "@theo I still count 6 weeks in the year",
+    "url": "https://x.com/thsottiaux/status/2123527849403674729",
+    "postCreatedAt": "2026-11-19T21:24:27.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,58 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1",
+      "id": "2123527849403674729",
+      "text": "@theo I still count 6 weeks in the year",
+      "url": "https://x.com/thsottiaux/status/2123527849403674729",
+      "postCreatedAt": "2026-11-19T21:24:27.000Z",
+      "detectedAt": "2026-11-19T23:14:19.854Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo I still count 6 weeks in the year",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo I still count 6 weeks in the year",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "08408a0dda1caa9595d145cff88369ab5ee9a9a4707aa973e26b529e5814927a",
+      "id": "2123505331531882923",
+      "text": "Tokens go brrrrrr. Going to need more compute.",
+      "url": "https://x.com/thsottiaux/status/2123505331531882923",
+      "postCreatedAt": "2026-11-19T19:54:58.000Z",
+      "detectedAt": "2026-11-19T23:14:19.854Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Tokens go brrrrrr. Going to need more compute.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Tokens go brrrrrr. Going to need more compute.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc",
       "id": "2123113107048501273",
@@ -503,58 +555,6 @@
             "start": null,
             "end": null,
             "evidence": "@kimmonismus Don't know, I live in the basement now",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
-      "id": "2118138648214585591",
-      "text": "Welcome Cat. Stoked to be building together soon.",
-      "url": "https://x.com/thsottiaux/status/2118138648214585591",
-      "postCreatedAt": "2026-11-05T00:29:41.000Z",
-      "detectedAt": "2026-11-05T01:19:39.037Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Welcome Cat. Stoked to be building together soon.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Welcome Cat. Stoked to be building together soon.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
-      "id": "2118024737070957009",
-      "text": "@AnikaCodes I was moved to the basement yesterday",
-      "url": "https://x.com/thsottiaux/status/2118024737070957009",
-      "postCreatedAt": "2026-11-04T16:57:02.000Z",
-      "detectedAt": "2026-11-04T20:58:09.394Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@AnikaCodes I was moved to the basement yesterday",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@AnikaCodes I was moved to the basement yesterday",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }

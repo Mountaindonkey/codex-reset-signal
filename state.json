@@ -3,12 +3,70 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123179276199735535",
-  "lastCheckedAt": "2026-11-19T16:42:02.400Z",
-  "lastSuccessAt": "2026-11-19T16:42:02.400Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 233,
+  "sinceId": "2123527849403674729",
+  "lastCheckedAt": "2026-11-19T23:14:19.854Z",
+  "lastSuccessAt": "2026-11-19T23:14:19.854Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 238,
   "matches": [
+    {
+      "version": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1",
+      "id": "2123527849403674729",
+      "canonicalId": "2123527849403674729",
+      "text": "@theo I still count 6 weeks in the year",
+      "createdAt": "2026-11-19T21:24:27.000Z",
+      "url": "https://x.com/thsottiaux/status/2123527849403674729",
+      "media": [],
+      "detectedAt": "2026-11-19T23:14:19.854Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo I still count 6 weeks in the year",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo I still count 6 weeks in the year",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-19T23:14:20.035Z"
+    },
+    {
+      "version": "08408a0dda1caa9595d145cff88369ab5ee9a9a4707aa973e26b529e5814927a",
+      "id": "2123505331531882923",
+      "canonicalId": "2123505331531882923",
+      "text": "Tokens go brrrrrr. Going to need more compute.",
+      "createdAt": "2026-11-19T19:54:58.000Z",
+      "url": "https://x.com/thsottiaux/status/2123505331531882923",
+      "media": [],
+      "detectedAt": "2026-11-19T23:14:19.854Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Tokens go brrrrrr. Going to need more compute.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Tokens go brrrrrr. Going to need more compute.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-19T23:14:19.856Z"
+    },
     {
       "version": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc",
       "id": "2123113107048501273",
@@ -520,62 +578,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
-      "id": "2118138648214585591",
-      "text": "Welcome Cat. Stoked to be building together soon.",
-      "createdAt": "2026-11-05T00:29:41.000Z",
-      "url": "https://x.com/thsottiaux/status/2118138648214585591",
-      "media": [],
-      "detectedAt": "2026-11-05T01:19:39.037Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Welcome Cat. Stoked to be building together soon.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Welcome Cat. Stoked to be building together soon.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-05T01:19:39.045Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
-      "id": "2118024737070957009",
-      "text": "@AnikaCodes I was moved to the basement yesterday",
-      "createdAt": "2026-11-04T16:57:02.000Z",
-      "url": "https://x.com/thsottiaux/status/2118024737070957009",
-      "media": [],
-      "detectedAt": "2026-11-04T20:58:09.394Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@AnikaCodes I was moved to the basement yesterday",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@AnikaCodes I was moved to the basement yesterday",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-04T20:58:09.398Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -812,14 +814,19 @@
     "2123150581321883811": "7421c9a8ba700c0a7781a73666b4e2b7a032c6cff9c131579c1389e379991f0f",
     "2123151267002503570": "06498a8eeec8a31e9badb1deb9129d0998928d82d87474ab23ee76a1704a76f4",
     "2123175166519992652": "fbae532ef257f6a6572d7ccda534a9924981dece4bed7bc8a45ad4766c9025b5",
-    "2123179276199735535": "61b537d9a9df332a041790dca8d9c738784991bf2f0c2faeffdb34908af1cbf1"
+    "2123179276199735535": "61b537d9a9df332a041790dca8d9c738784991bf2f0c2faeffdb34908af1cbf1",
+    "2123498899298210201": "3575dbf43ec0dced771d0b999d6d7f6796a7fe7893d3b559e368c20f1046cb70",
+    "2123505331531882923": "08408a0dda1caa9595d145cff88369ab5ee9a9a4707aa973e26b529e5814927a",
+    "2123505661741084830": "9519ce45a875f16bd2ee3b25cd4c122b35d7552e84c157d75e33687aa9b8ce9c",
+    "2123527632700747862": "3db24f107e0c3943a40a2aec38ab7cdf97215275fbba8bd0c2cddf81f1767fcf",
+    "2123527849403674729": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1"
   },
   "latestObservedPost": {
-    "id": "2123179276199735535",
-    "canonicalId": "2123179276199735535",
-    "text": "@DannyIO It does like math",
-    "createdAt": "2026-11-18T22:19:20.000Z",
-    "url": "https://x.com/thsottiaux/status/2123179276199735535",
+    "id": "2123527849403674729",
+    "canonicalId": "2123527849403674729",
+    "text": "@theo I still count 6 weeks in the year",
+    "createdAt": "2026-11-19T21:24:27.000Z",
+    "url": "https://x.com/thsottiaux/status/2123527849403674729",
     "media": []
   },
   "eventParserVersion": 5
