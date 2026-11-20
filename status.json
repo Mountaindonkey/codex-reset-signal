@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T23:14:20.112Z",
+  "updatedAt": "2026-11-20T03:59:31.959Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-19T23:14:19.854Z",
-    "lastSuccessAt": "2026-11-19T23:14:19.854Z",
-    "lastRunStatus": "checked-5-posts"
+    "lastCheckedAt": "2026-11-20T03:59:31.673Z",
+    "lastSuccessAt": "2026-11-20T03:59:31.673Z",
+    "lastRunStatus": "checked-7-posts"
   },
   "latestObservedPost": {
-    "id": "2123527849403674729",
-    "text": "@theo I still count 6 weeks in the year",
-    "url": "https://x.com/thsottiaux/status/2123527849403674729",
-    "postCreatedAt": "2026-11-19T21:24:27.000Z"
+    "id": "2123626421138702627",
+    "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
+    "url": "https://x.com/thsottiaux/status/2123626421138702627",
+    "postCreatedAt": "2026-11-20T03:56:08.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,58 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
+      "id": "2123612889416339762",
+      "text": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+      "url": "https://x.com/thsottiaux/status/2123612889416339762",
+      "postCreatedAt": "2026-11-20T03:02:22.000Z",
+      "detectedAt": "2026-11-20T03:59:31.673Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "a320ef3957d0f0a24c09bd89796f926cf1dd0ef051aa88633fe05bde6c9c5457",
+      "id": "2123556256392847657",
+      "text": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+      "url": "https://x.com/thsottiaux/status/2123556256392847657",
+      "postCreatedAt": "2026-11-19T23:17:19.000Z",
+      "detectedAt": "2026-11-20T03:59:31.671Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1",
       "id": "2123527849403674729",
@@ -503,58 +555,6 @@
             "start": null,
             "end": null,
             "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "324f650780e0e9fb23fa75775d21a696a84e81b88da4bc281c440578845975db",
-      "id": "2118469621011677521",
-      "text": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
-      "url": "https://x.com/thsottiaux/status/2118469621011677521",
-      "postCreatedAt": "2026-11-05T22:24:51.000Z",
-      "detectedAt": "2026-11-06T02:08:20.771Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "82539943e4ab297bbe0de3e6a5962bba4ebec47770bb2b898ae8b7151e9b75b7",
-      "id": "2118443570298568886",
-      "text": "@kimmonismus Don't know, I live in the basement now",
-      "url": "https://x.com/thsottiaux/status/2118443570298568886",
-      "postCreatedAt": "2026-11-05T20:41:20.000Z",
-      "detectedAt": "2026-11-05T22:00:05.873Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@kimmonismus Don't know, I live in the basement now",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@kimmonismus Don't know, I live in the basement now",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }

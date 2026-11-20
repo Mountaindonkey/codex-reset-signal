@@ -3,16 +3,73 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123527849403674729",
-  "lastCheckedAt": "2026-11-19T23:14:19.854Z",
-  "lastSuccessAt": "2026-11-19T23:14:19.854Z",
-  "lastRunStatus": "checked-5-posts",
-  "postsScanned": 238,
+  "sinceId": "2123626421138702627",
+  "lastCheckedAt": "2026-11-20T03:59:31.673Z",
+  "lastSuccessAt": "2026-11-20T03:59:31.673Z",
+  "lastRunStatus": "checked-7-posts",
+  "postsScanned": 245,
   "matches": [
+    {
+      "version": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
+      "id": "2123612889416339762",
+      "canonicalId": "2123612889416339762",
+      "text": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+      "createdAt": "2026-11-20T03:02:22.000Z",
+      "url": "https://x.com/thsottiaux/status/2123612889416339762",
+      "media": [],
+      "detectedAt": "2026-11-20T03:59:31.673Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-20T03:59:31.833Z"
+    },
+    {
+      "version": "a320ef3957d0f0a24c09bd89796f926cf1dd0ef051aa88633fe05bde6c9c5457",
+      "id": "2123556256392847657",
+      "canonicalId": "2123556256392847657",
+      "text": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+      "createdAt": "2026-11-19T23:17:19.000Z",
+      "url": "https://x.com/thsottiaux/status/2123556256392847657",
+      "media": [],
+      "detectedAt": "2026-11-20T03:59:31.671Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-20T03:59:31.677Z"
+    },
     {
       "version": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1",
       "id": "2123527849403674729",
-      "canonicalId": "2123527849403674729",
       "text": "@theo I still count 6 weeks in the year",
       "createdAt": "2026-11-19T21:24:27.000Z",
       "url": "https://x.com/thsottiaux/status/2123527849403674729",
@@ -32,16 +89,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-19T23:14:20.035Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-19T23:14:20.035Z"
+      ]
     },
     {
       "version": "08408a0dda1caa9595d145cff88369ab5ee9a9a4707aa973e26b529e5814927a",
       "id": "2123505331531882923",
-      "canonicalId": "2123505331531882923",
       "text": "Tokens go brrrrrr. Going to need more compute.",
       "createdAt": "2026-11-19T19:54:58.000Z",
       "url": "https://x.com/thsottiaux/status/2123505331531882923",
@@ -61,11 +117,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-19T23:14:19.856Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-19T23:14:19.856Z"
+      ]
     },
     {
       "version": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc",
@@ -522,62 +578,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "324f650780e0e9fb23fa75775d21a696a84e81b88da4bc281c440578845975db",
-      "id": "2118469621011677521",
-      "text": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
-      "createdAt": "2026-11-05T22:24:51.000Z",
-      "url": "https://x.com/thsottiaux/status/2118469621011677521",
-      "media": [],
-      "detectedAt": "2026-11-06T02:08:20.771Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-06T02:08:20.776Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
-    },
-    {
-      "version": "82539943e4ab297bbe0de3e6a5962bba4ebec47770bb2b898ae8b7151e9b75b7",
-      "id": "2118443570298568886",
-      "text": "@kimmonismus Don't know, I live in the basement now",
-      "createdAt": "2026-11-05T20:41:20.000Z",
-      "url": "https://x.com/thsottiaux/status/2118443570298568886",
-      "media": [],
-      "detectedAt": "2026-11-05T22:00:05.873Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@kimmonismus Don't know, I live in the basement now",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@kimmonismus Don't know, I live in the basement now",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-05T22:00:05.877Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -819,14 +819,21 @@
     "2123505331531882923": "08408a0dda1caa9595d145cff88369ab5ee9a9a4707aa973e26b529e5814927a",
     "2123505661741084830": "9519ce45a875f16bd2ee3b25cd4c122b35d7552e84c157d75e33687aa9b8ce9c",
     "2123527632700747862": "3db24f107e0c3943a40a2aec38ab7cdf97215275fbba8bd0c2cddf81f1767fcf",
-    "2123527849403674729": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1"
+    "2123527849403674729": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1",
+    "2123556256392847657": "a320ef3957d0f0a24c09bd89796f926cf1dd0ef051aa88633fe05bde6c9c5457",
+    "2123557171321561133": "5896f51177f93d154a28e0871c00c4bdf4fab3c93e30c837150441f0f5b8153f",
+    "2123612433923051976": "ae54e6585380397dc402207b28192ed21d3fd5899599a6afdeec5020c868a702",
+    "2123612889416339762": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
+    "2123621880636883137": "7d5ca50b4820c9d911c90f000473bfe51f5082b2ee485e82dda77717cd72333e",
+    "2123626048185336175": "fc101bf33088b95b770e2475dd2d489f479f6e6254205c4328a2d7318a6c6187",
+    "2123626421138702627": "3336c5c39100f959a505f903c5503cd6bd911090bb86b8021d2354ce25eb9d71"
   },
   "latestObservedPost": {
-    "id": "2123527849403674729",
-    "canonicalId": "2123527849403674729",
-    "text": "@theo I still count 6 weeks in the year",
-    "createdAt": "2026-11-19T21:24:27.000Z",
-    "url": "https://x.com/thsottiaux/status/2123527849403674729",
+    "id": "2123626421138702627",
+    "canonicalId": "2123626421138702627",
+    "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
+    "createdAt": "2026-11-20T03:56:08.000Z",
+    "url": "https://x.com/thsottiaux/status/2123626421138702627",
     "media": []
   },
   "eventParserVersion": 5
