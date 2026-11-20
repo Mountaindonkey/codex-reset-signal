@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T12:38:05.868Z",
+  "updatedAt": "2026-11-20T20:42:43.714Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-20T12:38:05.853Z",
-    "lastSuccessAt": "2026-11-20T12:38:05.853Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-20T20:42:43.494Z",
+    "lastSuccessAt": "2026-11-20T20:42:43.494Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2123693044465906132",
-    "text": "@tszzl @thibaudz @Roon 🫨",
-    "url": "https://x.com/thsottiaux/status/2123693044465906132",
-    "postCreatedAt": "2026-11-20T08:20:52.000Z"
+    "id": "2123867163345961285",
+    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+    "url": "https://x.com/thsottiaux/status/2123867163345961285",
+    "postCreatedAt": "2026-11-20T19:52:45.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
+      "id": "2123867163345961285",
+      "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+      "url": "https://x.com/thsottiaux/status/2123867163345961285",
+      "postCreatedAt": "2026-11-20T19:52:45.000Z",
+      "detectedAt": "2026-11-20T20:42:43.494Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
       "id": "2123612889416339762",
@@ -529,32 +555,6 @@
             "start": null,
             "end": null,
             "evidence": "It's Friday",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3",
-      "id": "2118802895604994463",
-      "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-      "url": "https://x.com/thsottiaux/status/2118802895604994463",
-      "postCreatedAt": "2026-11-06T20:29:10.000Z",
-      "detectedAt": "2026-11-06T21:46:57.306Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }

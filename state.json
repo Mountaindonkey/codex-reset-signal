@@ -3,12 +3,41 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123693044465906132",
-  "lastCheckedAt": "2026-11-20T12:38:05.853Z",
-  "lastSuccessAt": "2026-11-20T12:38:05.853Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 246,
+  "sinceId": "2123867163345961285",
+  "lastCheckedAt": "2026-11-20T20:42:43.494Z",
+  "lastSuccessAt": "2026-11-20T20:42:43.494Z",
+  "lastRunStatus": "checked-4-posts",
+  "postsScanned": 250,
   "matches": [
+    {
+      "version": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
+      "id": "2123867163345961285",
+      "canonicalId": "2123867163345961285",
+      "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+      "createdAt": "2026-11-20T19:52:45.000Z",
+      "url": "https://x.com/thsottiaux/status/2123867163345961285",
+      "media": [],
+      "detectedAt": "2026-11-20T20:42:43.494Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-20T20:42:43.498Z"
+    },
     {
       "version": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
       "id": "2123612889416339762",
@@ -548,34 +577,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3",
-      "id": "2118802895604994463",
-      "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-      "createdAt": "2026-11-06T20:29:10.000Z",
-      "url": "https://x.com/thsottiaux/status/2118802895604994463",
-      "media": [],
-      "detectedAt": "2026-11-06T21:46:57.306Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-06T21:46:57.310Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -825,14 +826,18 @@
     "2123621880636883137": "7d5ca50b4820c9d911c90f000473bfe51f5082b2ee485e82dda77717cd72333e",
     "2123626048185336175": "fc101bf33088b95b770e2475dd2d489f479f6e6254205c4328a2d7318a6c6187",
     "2123626421138702627": "3336c5c39100f959a505f903c5503cd6bd911090bb86b8021d2354ce25eb9d71",
-    "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f"
+    "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f",
+    "2123859787079426435": "669e10a273beab5bae4c3ddab9266dcb5cf81a54a35de8099b21775e3f9b5893",
+    "2123861214644347122": "0f227b3bb591cff09af871db4d3e4c93be6c417e4d9428f3f067059395534407",
+    "2123864112694509995": "4d0f2e42551634df9ebd5a34b4d59f3cb14bb15fbcc40a75d9417c4876e06f90",
+    "2123867163345961285": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240"
   },
   "latestObservedPost": {
-    "id": "2123693044465906132",
-    "canonicalId": "2123693044465906132",
-    "text": "@tszzl @thibaudz @Roon 🫨",
-    "createdAt": "2026-11-20T08:20:52.000Z",
-    "url": "https://x.com/thsottiaux/status/2123693044465906132",
+    "id": "2123867163345961285",
+    "canonicalId": "2123867163345961285",
+    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+    "createdAt": "2026-11-20T19:52:45.000Z",
+    "url": "https://x.com/thsottiaux/status/2123867163345961285",
     "media": []
   },
   "eventParserVersion": 5
