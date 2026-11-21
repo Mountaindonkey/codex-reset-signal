@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2123998117561532424",
-  "lastCheckedAt": "2026-11-21T08:48:22.322Z",
-  "lastSuccessAt": "2026-11-21T08:48:22.322Z",
-  "lastRunStatus": "checked-2-posts",
+  "lastCheckedAt": "2026-11-21T16:25:40.382Z",
+  "lastSuccessAt": "2026-11-21T16:25:40.382Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 253,
   "matches": [
     {
       "version": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
       "id": "2123997735326232775",
-      "canonicalId": "2123997735326232775",
       "text": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
       "createdAt": "2026-11-21T04:31:36.000Z",
       "url": "https://x.com/thsottiaux/status/2123997735326232775",
@@ -32,11 +31,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-21T08:48:22.325Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-21T08:48:22.325Z"
+      ]
     },
     {
       "version": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
