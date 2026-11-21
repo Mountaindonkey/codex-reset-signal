@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T01:45:02.876Z",
+  "updatedAt": "2026-11-21T08:48:22.472Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T01:45:02.872Z",
-    "lastSuccessAt": "2026-11-21T01:45:02.872Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-21T08:48:22.322Z",
+    "lastSuccessAt": "2026-11-21T08:48:22.322Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2123901067272618336",
-    "text": "@theo @maria_rcks But is it true",
-    "url": "https://x.com/thsottiaux/status/2123901067272618336",
-    "postCreatedAt": "2026-11-20T22:07:29.000Z"
+    "id": "2123998117561532424",
+    "text": "@DylanMcD8 DYLAN, HI! 👋",
+    "url": "https://x.com/thsottiaux/status/2123998117561532424",
+    "postCreatedAt": "2026-11-21T04:33:07.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
+      "id": "2123997735326232775",
+      "text": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+      "url": "https://x.com/thsottiaux/status/2123997735326232775",
+      "postCreatedAt": "2026-11-21T04:31:36.000Z",
+      "detectedAt": "2026-11-21T08:48:22.321Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
       "id": "2123867163345961285",
@@ -529,32 +555,6 @@
             "start": null,
             "end": null,
             "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "a8c0d655bc16ddc70e0f5380da2e992e7a09853343906b1e2364525e4fe1d8ec",
-      "id": "2118871902366441879",
-      "text": "It's Friday",
-      "url": "https://x.com/thsottiaux/status/2118871902366441879",
-      "postCreatedAt": "2026-11-07T01:03:22.000Z",
-      "detectedAt": "2026-11-07T01:18:33.340Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "It's Friday",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "It's Friday",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }
