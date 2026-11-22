@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T01:39:40.943Z",
+  "updatedAt": "2026-11-22T08:49:13.171Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-22T01:39:40.938Z",
-    "lastSuccessAt": "2026-11-22T01:39:40.938Z",
+    "lastCheckedAt": "2026-11-22T08:49:12.971Z",
+    "lastSuccessAt": "2026-11-22T08:49:12.971Z",
     "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2124277855131664869",
-    "text": "Going to check out this threads thing",
-    "url": "https://x.com/thsottiaux/status/2124277855131664869",
-    "postCreatedAt": "2026-11-21T23:04:42.000Z"
+    "id": "2124322968499282388",
+    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+    "url": "https://x.com/thsottiaux/status/2124322968499282388",
+    "postCreatedAt": "2026-11-22T02:03:58.000Z"
   },
   "latest": {
     "reset": null,
@@ -44,6 +44,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5",
+      "id": "2124322968499282388",
+      "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+      "url": "https://x.com/thsottiaux/status/2124322968499282388",
+      "postCreatedAt": "2026-11-22T02:03:58.000Z",
+      "detectedAt": "2026-11-22T08:49:12.971Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
       "id": "2123997735326232775",
@@ -529,32 +555,6 @@
             "start": null,
             "end": null,
             "evidence": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
-      "id": "2119232059537514598",
-      "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-      "url": "https://x.com/thsottiaux/status/2119232059537514598",
-      "postCreatedAt": "2026-11-08T00:54:31.000Z",
-      "detectedAt": "2026-11-08T01:30:29.046Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }

@@ -3,12 +3,41 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2124277855131664869",
-  "lastCheckedAt": "2026-11-22T01:39:40.938Z",
-  "lastSuccessAt": "2026-11-22T01:39:40.938Z",
+  "sinceId": "2124322968499282388",
+  "lastCheckedAt": "2026-11-22T08:49:12.971Z",
+  "lastSuccessAt": "2026-11-22T08:49:12.971Z",
   "lastRunStatus": "checked-1-posts",
-  "postsScanned": 254,
+  "postsScanned": 255,
   "matches": [
+    {
+      "version": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5",
+      "id": "2124322968499282388",
+      "canonicalId": "2124322968499282388",
+      "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+      "createdAt": "2026-11-22T02:03:58.000Z",
+      "url": "https://x.com/thsottiaux/status/2124322968499282388",
+      "media": [],
+      "detectedAt": "2026-11-22T08:49:12.971Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-22T08:49:12.976Z"
+    },
     {
       "version": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
       "id": "2123997735326232775",
@@ -548,34 +577,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
-      "id": "2119232059537514598",
-      "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-      "createdAt": "2026-11-08T00:54:31.000Z",
-      "url": "https://x.com/thsottiaux/status/2119232059537514598",
-      "media": [],
-      "detectedAt": "2026-11-08T01:30:29.046Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-08T01:30:29.048Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -833,14 +834,15 @@
     "2123901067272618336": "0b31b0ded5cf79242d8491b3bc8fe51197107a302fd4616ce475291e1345b9ed",
     "2123997735326232775": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
     "2123998117561532424": "c6e8ad920deaf169c09ced90de86cb63dc106e3c5fb80c607d9a71717af7a1fb",
-    "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f"
+    "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f",
+    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5"
   },
   "latestObservedPost": {
-    "id": "2124277855131664869",
-    "canonicalId": "2124277855131664869",
-    "text": "Going to check out this threads thing",
-    "createdAt": "2026-11-21T23:04:42.000Z",
-    "url": "https://x.com/thsottiaux/status/2124277855131664869",
+    "id": "2124322968499282388",
+    "canonicalId": "2124322968499282388",
+    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+    "createdAt": "2026-11-22T02:03:58.000Z",
+    "url": "https://x.com/thsottiaux/status/2124322968499282388",
     "media": []
   },
   "eventParserVersion": 5
