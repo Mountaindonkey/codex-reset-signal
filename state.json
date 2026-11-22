@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2124322968499282388",
-  "lastCheckedAt": "2026-11-22T08:49:12.971Z",
-  "lastSuccessAt": "2026-11-22T08:49:12.971Z",
-  "lastRunStatus": "checked-1-posts",
+  "lastCheckedAt": "2026-11-22T16:42:39.746Z",
+  "lastSuccessAt": "2026-11-22T16:42:39.746Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 255,
   "matches": [
     {
       "version": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5",
       "id": "2124322968499282388",
-      "canonicalId": "2124322968499282388",
       "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
       "createdAt": "2026-11-22T02:03:58.000Z",
       "url": "https://x.com/thsottiaux/status/2124322968499282388",
@@ -32,11 +31,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-22T08:49:12.976Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-22T08:49:12.976Z"
+      ]
     },
     {
       "version": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
