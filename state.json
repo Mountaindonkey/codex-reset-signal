@@ -3,12 +3,49 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2124322968499282388",
-  "lastCheckedAt": "2026-11-23T11:12:07.731Z",
-  "lastSuccessAt": "2026-11-23T11:12:07.731Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 255,
+  "sinceId": "2124923142762361133",
+  "lastCheckedAt": "2026-11-23T22:38:52.778Z",
+  "lastSuccessAt": "2026-11-23T22:38:52.778Z",
+  "lastRunStatus": "checked-4-posts",
+  "postsScanned": 259,
   "matches": [
+    {
+      "version": "32bb47b98de764cbbd3c2299b0a020868decb6f38830333503c0054413c9e9fd",
+      "id": "2124922313019953319",
+      "canonicalId": "2124922313019953319",
+      "text": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
+      "createdAt": "2026-11-23T17:45:33.000Z",
+      "url": "https://x.com/thsottiaux/status/2124922313019953319",
+      "media": [
+        {
+          "mediaKey": "2124922054965411840",
+          "type": "gif",
+          "url": "https://video.twimg.com/tweet_video/HX09WcWbQAANyzi.mp4",
+          "previewImageUrl": "https://pbs.twimg.com/tweet_video_thumb/HX09WcWbQAANyzi.jpg",
+          "altText": null
+        }
+      ],
+      "detectedAt": "2026-11-23T22:38:52.777Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
+            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-23T22:38:52.781Z"
+    },
     {
       "version": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5",
       "id": "2124322968499282388",
@@ -548,34 +585,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "a242c712cbc15ff33b7853538989a65b688993c810effbcfb9cb8f5a2b21d1c8",
-      "id": "2119296267545419987",
-      "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
-      "createdAt": "2026-11-08T05:09:39.000Z",
-      "url": "https://x.com/thsottiaux/status/2119296267545419987",
-      "media": [],
-      "detectedAt": "2026-11-08T07:52:04.341Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-08T07:52:04.349Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -834,14 +843,18 @@
     "2123997735326232775": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
     "2123998117561532424": "c6e8ad920deaf169c09ced90de86cb63dc106e3c5fb80c607d9a71717af7a1fb",
     "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f",
-    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5"
+    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5",
+    "2124922313019953319": "32bb47b98de764cbbd3c2299b0a020868decb6f38830333503c0054413c9e9fd",
+    "2124922412219486443": "60cf1e6fccd6f0b743135a0a1a61cb24df4b6c733a1b6afee7a1c73e411e748d",
+    "2124923055072043052": "7c08671ab1f7155738cb17eb7c7ee0bc6c71f466f3ea4ea0dfd88e1f9336d2e7",
+    "2124923142762361133": "7a73e2b60bed38773646b56d943761d68071b0dc5a32b9109a598d7ec01e0c0b"
   },
   "latestObservedPost": {
-    "id": "2124322968499282388",
-    "canonicalId": "2124322968499282388",
-    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
-    "createdAt": "2026-11-22T02:03:58.000Z",
-    "url": "https://x.com/thsottiaux/status/2124322968499282388",
+    "id": "2124923142762361133",
+    "canonicalId": "2124923142762361133",
+    "text": "@charliermarsh Charlie is in the hunt",
+    "createdAt": "2026-11-23T17:48:51.000Z",
+    "url": "https://x.com/thsottiaux/status/2124923142762361133",
     "media": []
   },
   "eventParserVersion": 5
