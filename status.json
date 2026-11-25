@@ -1,49 +1,77 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T17:58:49.317Z",
+  "updatedAt": "2026-11-25T01:59:21.375Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-24T17:58:49.312Z",
-    "lastSuccessAt": "2026-11-24T17:58:49.312Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-11-25T01:59:21.216Z",
+    "lastSuccessAt": "2026-11-25T01:59:21.216Z",
+    "lastRunStatus": "checked-6-posts"
   },
   "latestObservedPost": {
-    "id": "2125284868414394550",
-    "text": "Hi. We’re beginning to roll out the combined Chat and Work experience to a small group of Pro users to learn from feedback before we roll out more broadly. \n\nLet us know what you think and where we can improve!",
-    "url": "https://x.com/thsottiaux/status/2125284868414394550",
-    "postCreatedAt": "2026-11-24T17:46:13.000Z"
+    "id": "2125388306842255694",
+    "text": "@TokenGremlin @amorriscode @trq212 Wait, is that true?",
+    "url": "https://x.com/thsottiaux/status/2125388306842255694",
+    "postCreatedAt": "2026-11-25T00:37:14.000Z"
   },
   "latest": {
     "reset": null,
     "bankCredit": {
-      "version": "history:2096035437299237298",
-      "id": "2096035437299237298",
-      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
-      "url": "https://x.com/thsottiaux/status/2096035437299237298",
-      "postCreatedAt": "2026-09-05T00:39:25.364Z",
-      "detectedAt": "2026-09-09T08:30:00.000Z",
+      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+      "id": "2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "postCreatedAt": "2026-11-24T18:43:21.000Z",
+      "detectedAt": "2026-11-25T01:59:21.213Z",
       "events": [
         {
           "type": "bank_credit",
-          "status": "announced",
-          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
+          "status": "scheduled",
+          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
           "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Lands end of day",
-            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
+            "kind": "date",
+            "start": "2026-12-31T08:00:00.000Z",
+            "end": "2027-01-01T08:00:00.000Z",
+            "evidence": "Dec 31",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
           }
         }
       ],
-      "deliveryChannels": [],
-      "origin": "historical_seed"
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
     },
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+      "id": "2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "postCreatedAt": "2026-11-24T18:43:21.000Z",
+      "detectedAt": "2026-11-25T01:59:21.213Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "scheduled",
+          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
+          "time": {
+            "kind": "date",
+            "start": "2026-12-31T08:00:00.000Z",
+            "end": "2027-01-01T08:00:00.000Z",
+            "evidence": "Dec 31",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "32a130c0595644f77981f44d5d1e69137e544076870d3fa68c08a30cfd64acef",
       "id": "2124998553856844186",
@@ -529,32 +557,6 @@
             "start": null,
             "end": null,
             "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "deliveryChannels": [
-        "email"
-      ],
-      "origin": "live"
-    },
-    {
-      "version": "34fe16711376cb1ae9a12a1a6e9e29ca058295a86a14c7c52e77bc9e31250c8a",
-      "id": "2120018604691521609",
-      "text": "@ajambrosino good evening",
-      "url": "https://x.com/thsottiaux/status/2120018604691521609",
-      "postCreatedAt": "2026-11-10T04:59:58.000Z",
-      "detectedAt": "2026-11-10T10:24:02.932Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "@ajambrosino good evening",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "@ajambrosino good evening",
             "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
           }
         }
