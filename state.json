@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2125853628250599730",
-  "lastCheckedAt": "2026-11-26T11:55:39.209Z",
-  "lastSuccessAt": "2026-11-26T11:55:39.209Z",
-  "lastRunStatus": "checked-1-posts",
+  "lastCheckedAt": "2026-11-26T20:48:33.373Z",
+  "lastSuccessAt": "2026-11-26T20:48:33.373Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 274,
   "matches": [
     {
       "version": "6b5790d016ebf63d0312e82650f7121dca62394f9536fe0b60d437633f237fe2",
       "id": "2125853628250599730",
-      "canonicalId": "2125853628250599730",
       "text": "Banked reset is online",
       "createdAt": "2026-11-26T07:26:16.000Z",
       "url": "https://x.com/thsottiaux/status/2125853628250599730",
@@ -32,11 +31,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-26T11:55:39.212Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-26T11:55:39.212Z"
+      ]
     },
     {
       "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
