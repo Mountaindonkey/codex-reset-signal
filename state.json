@@ -3,12 +3,41 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2125678401541583217",
-  "lastCheckedAt": "2026-11-25T20:24:47.863Z",
-  "lastSuccessAt": "2026-11-25T20:24:47.863Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 272,
+  "sinceId": "2125784147889393806",
+  "lastCheckedAt": "2026-11-26T02:57:35.771Z",
+  "lastSuccessAt": "2026-11-26T02:57:35.771Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 273,
   "matches": [
+    {
+      "version": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5",
+      "id": "2125784147889393806",
+      "canonicalId": "2125784147889393806",
+      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+      "createdAt": "2026-11-26T02:50:10.000Z",
+      "url": "https://x.com/thsottiaux/status/2125784147889393806",
+      "media": [],
+      "detectedAt": "2026-11-26T02:57:35.771Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "announced",
+          "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-26T02:57:35.775Z"
+    },
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
       "id": "2125299248782778588",
@@ -556,34 +585,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "9729ed332d21a6bd0687726475e22aa2bf00aa775f67e844b063d56398d5f0a7",
-      "id": "2120021043876106429",
-      "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
-      "createdAt": "2026-11-10T05:09:39.000Z",
-      "url": "https://x.com/thsottiaux/status/2120021043876106429",
-      "media": [],
-      "detectedAt": "2026-11-10T10:24:02.933Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
-            "note": "含时间、额度或落地暗示，尚未确认是重置；原文转发，请自行查看原帖判断"
-          }
-        }
-      ],
-      "notifiedAt": "2026-11-10T10:24:03.114Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -859,14 +860,15 @@
     "2125388306842255694": "e8e2eb41839323ba47679d3f661f6f523f84a05a6fce9f9eed599adb41b5b349",
     "2125494608826372329": "cba235af6a44647eced184fe9f8b11c60a1feae9719051a7902e507621e60bdd",
     "2125678021848019454": "241bf0287807ad5cebd0718ce24f7869214d31d0c8d02514dfa2961e41bb6f39",
-    "2125678401541583217": "0829acaa1a3b5193bca7777d0227ced577149ceb5bdd069d265ae4d084b3ca0b"
+    "2125678401541583217": "0829acaa1a3b5193bca7777d0227ced577149ceb5bdd069d265ae4d084b3ca0b",
+    "2125784147889393806": "835ed93f0e9c918ba28d31e16f39e798c0f7c3238ee5db00edc64fc7486984c5"
   },
   "latestObservedPost": {
-    "id": "2125678401541583217",
-    "canonicalId": "2125678401541583217",
-    "text": "@charliermarsh This man is unstoppable",
-    "createdAt": "2026-11-25T19:49:58.000Z",
-    "url": "https://x.com/thsottiaux/status/2125678401541583217",
+    "id": "2125784147889393806",
+    "canonicalId": "2125784147889393806",
+    "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+    "createdAt": "2026-11-26T02:50:10.000Z",
+    "url": "https://x.com/thsottiaux/status/2125784147889393806",
     "media": []
   },
   "eventParserVersion": 5
